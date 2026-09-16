@@ -1,0 +1,389 @@
+{
+ "repo": "apis-scraping-e-commerce-deutschland",
+ "title": "Scraping-APIs für E-Commerce",
+ "tagline": "Die meistgenutzten E-Commerce-Scraper von Apify, sortiert nach echten Nutzern pro Monat: Amazon.de, Kleinanzeigen, Otto, Kaufland, idealo, Shopify, AliExpress, Temu und Google Shopping. Produkte, Preise, Bewertungen, Händler und Bestand. Ohne Programmierung, Export als CSV, Excel oder JSON.",
+ "brand": "AutomationByExperts",
+ "storeCategory": "ECOMMERCE",
+ "storeCategoryLabel": "E-commerce",
+ "fetchLimit": 1500,
+ "topCount": 25,
+ "intro": "Eine kuratierte, wöchentlich aktualisierte Liste der {count} E-Commerce-Actors, die tatsächlich genutzt werden, ausgewählt aus den {storeTotal} Actors der Kategorie E-commerce im Apify Store, plus Tools für Amazon.de, Otto, Kaufland, idealo und Shops in Deutschland, Österreich und der Schweiz. Actors, die in den letzten 30 Tagen niemand gestartet hat, fliegen raus, und jeder ist nach Shop oder Aufgabe einsortiert. So finden Sie in Sekunden ein Tool für Produktrecherche, Preisbeobachtung, Bewertungsanalyse oder Dropshipping.",
+ "languages": [
+  {
+   "label": "English",
+   "repo": "ecommerce-scraping-apis"
+  },
+  {
+   "label": "Español",
+   "repo": "apis-scraping-comercio-electronico"
+  },
+  {
+   "label": "Português",
+   "repo": "apis-scraping-ecommerce-brasil"
+  },
+  {
+   "label": "Français",
+   "repo": "apis-scraping-e-commerce-france"
+  },
+  {
+   "label": "Ελληνικά",
+   "repo": "apis-scraping-eshop-greece"
+  },
+  {
+   "label": "Deutsch",
+   "repo": "apis-scraping-e-commerce-deutschland"
+  },
+  {
+   "label": "Italiano",
+   "repo": "apis-scraping-ecommerce-italia"
+  }
+ ],
+ "thousandsSeparator": ".",
+ "exampleActor": "junglee/amazon-crawler",
+ "exampleInput": {
+  "categoryOrProductUrls": [
+   {
+    "url": "https://www.amazon.de/s?k=bluetooth+kopfhoerer"
+   }
+  ],
+  "maxItemsPerStartUrl": 50
+ },
+ "groups": [
+  {
+   "slug": "dach",
+   "title": "Amazon.de, Otto, Kaufland und DACH-Shops",
+   "blurb": "Kleinanzeigen, Otto, Kaufland, MediaMarkt, Saturn, Zalando, idealo, Geizhals, Check24, Galaxus, dm, Rossmann, Lidl, Rewe, Thomann, willhaben und Amazon.de.",
+   "keywords": [
+    "kleinanzeigen",
+    "otto.de",
+    "otto scraper",
+    "kaufland",
+    "mediamarkt",
+    "media markt",
+    "saturn",
+    "zalando",
+    "idealo",
+    "geizhals",
+    "check24",
+    "galaxus",
+    "digitec",
+    "dm.de",
+    "rossmann",
+    "lidl",
+    "aldi",
+    "rewe",
+    "edeka",
+    "thomann",
+    "tchibo",
+    "bike24",
+    "about you",
+    "aboutyou",
+    "douglas",
+    "conrad",
+    "mindfactory",
+    "notebooksbilliger",
+    "cyberport",
+    "hornbach",
+    "bauhaus",
+    "willhaben",
+    "ricardo.ch",
+    "tutti.ch",
+    "amazon.de",
+    "amazon germany",
+    "ebay.de",
+    "skroutz"
+   ]
+  },
+  {
+   "slug": "amazon",
+   "title": "Amazon",
+   "blurb": "Produkte, Preise, BSR, Verkäufer, Angebote und Rezensionen aus allen Amazon-Marktplätzen, auch Amazon.de.",
+   "keywords": [
+    "amazon",
+    "asin"
+   ]
+  },
+  {
+   "slug": "shopify-stores",
+   "title": "Shopify und Onlineshops",
+   "blurb": "Komplette Produktkataloge aus Shopify-, WooCommerce-, Shopware- und anderen Onlineshops sowie Shop-Recherche.",
+   "keywords": [
+    "shopify",
+    "woocommerce",
+    "bigcommerce",
+    "magento",
+    "wix",
+    "online store",
+    "ecommerce store",
+    "e-commerce store",
+    "store leads"
+   ]
+  },
+  {
+   "slug": "chinese-marketplaces",
+   "title": "AliExpress, Temu, Shein und Alibaba",
+   "blurb": "Produkt- und Lieferantendaten für Dropshipping und Sourcing auf chinesischen Marktplätzen.",
+   "keywords": [
+    "aliexpress",
+    "temu",
+    "shein",
+    "alibaba",
+    "1688",
+    "taobao",
+    "dhgate",
+    "made-in-china",
+    "tiktok shop"
+   ]
+  },
+  {
+   "slug": "ebay-etsy",
+   "title": "eBay und Etsy",
+   "blurb": "Angebote, Verkaufspreise, Verkäufer und Bewertungen von eBay und Etsy.",
+   "keywords": [
+    "ebay",
+    "etsy"
+   ]
+  },
+  {
+   "slug": "us-retailers",
+   "title": "Walmart, Target und große Handelsketten",
+   "blurb": "Produkte, Preise und Bestand großer Handelsketten und Supermärkte in den USA, Großbritannien und Australien.",
+   "keywords": [
+    "walmart",
+    "target.com",
+    "target scraper",
+    "target product",
+    "costco",
+    "best buy",
+    "bestbuy",
+    "home depot",
+    "homedepot",
+    "lowe's",
+    "lowes",
+    "kroger",
+    "instacart",
+    "wayfair",
+    "macy",
+    "sephora",
+    "ulta",
+    "nordstrom",
+    "chewy",
+    "walgreens",
+    "sam's club",
+    "woolworths",
+    "coles",
+    "tesco",
+    "sainsbury",
+    "argos",
+    "aldi",
+    "lidl",
+    "carrefour",
+    "albert heijn"
+   ]
+  },
+  {
+   "slug": "price-comparison",
+   "title": "Google Shopping und Preisvergleich",
+   "blurb": "Preise zwischen Händlern vergleichen, Preissenkungen verfolgen und Wettbewerber beobachten.",
+   "keywords": [
+    "google shopping",
+    "price comparison",
+    "price tracker",
+    "price monitor",
+    "idealo",
+    "pricerunner",
+    "skroutz",
+    "keepa",
+    "camelcamel",
+    "price history",
+    "competitor price",
+    "map violation",
+    "price checker"
+   ]
+  },
+  {
+   "slug": "global-marketplaces",
+   "title": "Internationale Marktplätze",
+   "blurb": "Mercado Libre, Allegro, OLX, Vinted, Rakuten, Shopee und weitere Marktplätze weltweit.",
+   "keywords": [
+    "mercado",
+    "flipkart",
+    "shopee",
+    "lazada",
+    "rakuten",
+    "zalando",
+    "allegro",
+    "olx",
+    "vinted",
+    "coupang",
+    "noon",
+    "jumia",
+    "tokopedia",
+    "bol.com",
+    "otto",
+    "cdiscount",
+    "fnac",
+    "wallapop",
+    "kaufland",
+    "trendyol",
+    "ozon",
+    "wildberries",
+    "avito",
+    "marktplaats",
+    "leboncoin",
+    "kleinanzeigen",
+    "craigslist",
+    "facebook marketplace",
+    "gumtree",
+    "depop",
+    "poshmark",
+    "mercari",
+    "grailed",
+    "stockx",
+    "farfetch",
+    "asos",
+    "ikea",
+    "carousell",
+    "meesho",
+    "myntra",
+    "daraz",
+    "tiki",
+    "blibli",
+    "falabella",
+    "jd.com",
+    "g2g"
+   ]
+  },
+  {
+   "slug": "reviews",
+   "title": "Produktbewertungen",
+   "blurb": "Kundenrezensionen, Bewertungen und Fragen für Sentimentanalyse und Produktrecherche.",
+   "keywords": [
+    "review",
+    "rating",
+    "trustpilot"
+   ]
+  },
+  {
+   "slug": "ads-and-trends",
+   "title": "Werbeanzeigen und Produkttrends",
+   "blurb": "Gewinnerprodukte, Anzeigenbibliotheken und Suchtrends für Dropshipping.",
+   "keywords": [
+    "ads library",
+    "ad library",
+    "trend",
+    "winning product",
+    "dropship",
+    "best seller",
+    "bestseller"
+   ]
+  }
+ ],
+ "fallbackGroup": {
+  "slug": "other-ecommerce",
+  "title": "Weitere E-Commerce-Tools",
+  "blurb": "Lebensmittel, Lieferdienste, Reisen, Gutscheine und weitere Nischenquellen.",
+  "keywords": []
+ },
+ "extraSearches": [
+  {
+   "group": "dach",
+   "terms": [
+    "kleinanzeigen",
+    "otto",
+    "kaufland",
+    "mediamarkt",
+    "zalando",
+    "idealo",
+    "geizhals",
+    "check24",
+    "galaxus",
+    "rossmann",
+    "lidl",
+    "rewe",
+    "thomann",
+    "douglas",
+    "willhaben",
+    "amazon germany",
+    "ricardo"
+   ]
+  }
+ ],
+ "featured": [
+  "skroutz-scraper",
+  "bike24-result-scraper",
+  "multi-marketplace-price-checker",
+  "competitor-price-tracker-price-comparison-by-product-url",
+  "cheap-amazon-scraper",
+  "map-violation-monitor",
+  "brand-abuse-counterfeit-detector",
+  "website-change-monitor"
+ ],
+ "faq": [
+  [
+   "Wie überwache ich Preise auf idealo oder Amazon.de?",
+   "Im Abschnitt Amazon.de, Otto, Kaufland und DACH-Shops sowie unter Preisvergleich finden Sie die meistgenutzten Tools. Planen Sie einen Actor für tägliche Läufe ein und exportieren Sie die Preise nach Google Sheets."
+  ],
+  [
+   "Kann ich Wettbewerberpreise automatisch beobachten?",
+   "Ja. Jeder Produkt- oder Preis-Actor lässt sich täglich planen, und der Abschnitt Preisvergleich enthält Tools, die Veränderungen über die Zeit verfolgen."
+  ],
+  [
+   "Ist das Scrapen von Produktdaten legal?",
+   "Öffentlich sichtbare Produkt- und Preisdaten zu erheben ist gängige Praxis. Prüfen Sie trotzdem die Nutzungsbedingungen der Website und das geltende Recht, und erheben Sie keine personenbezogenen Daten, die Sie nicht brauchen (DSGVO)."
+  ],
+  [
+   "Brauche ich eigene Proxys oder Server?",
+   "Nein. Die Actors laufen in der Apify-Cloud und kümmern sich um Proxys, Browser und Anti-Bot-Schutz."
+  ]
+ ],
+ "ui": {
+  "statsLine": "**{count} Actors im Einsatz** | **{storeTotal} geprüft** | **{topics} Themen** | Aktualisiert am {today}",
+  "startFree": "Kostenlos bei Apify starten",
+  "llmsLink": "llms.txt für KI-Assistenten",
+  "customLink": "Individuelle Scraper",
+  "languages": "Sprachen",
+  "whatIs": "Worum geht es?",
+  "howItWorks": "Jeder Eintrag ist ein gehostetes Cloud-Tool (ein „Actor“) auf der Apify-Plattform: öffnen, Eingabe ausfüllen, auf Start klicken und die Ergebnisse als JSON, CSV oder Excel exportieren, oder per Apify API aus dem eigenen Code aufrufen. Jedes neue Konto erhält ein kostenloses Monatsguthaben, genug, um die meisten dieser Actors ohne Kosten zu testen.",
+  "descriptionNote": "> Titel und Beschreibungen der Actors stammen unverändert aus dem Apify Store und sind meist auf Englisch. Die Eingabeformulare akzeptieren Suchbegriffe auf Deutsch.",
+  "contents": "Inhalt",
+  "topTitle": "Die {n} meistgenutzten",
+  "topIntro": "Sortiert danach, wie viele verschiedene Personen sie in den letzten 30 Tagen gestartet haben.",
+  "colActor": "Actor",
+  "colWhat": "Was er macht",
+  "colUsers": "Nutzer pro Monat",
+  "colRating": "Bewertung",
+  "by": "von",
+  "seeAll": "Alle {n} Actors: {title}",
+  "ownTitle": "Von uns gepflegt",
+  "ownIntro": "Actors, die [{brand}]({site}) entwickelt und pflegt, das Team hinter dieser Liste. Fehler, die über den Issues-Tab bei Apify gemeldet werden, sind meist in wenigen Tagen behoben.",
+  "chooseTitle": "So wählen Sie den richtigen Actor",
+  "choose": [
+   "**Nutzer pro Monat** ist das beste Signal: Es zählt verschiedene Personen, die den Actor in den letzten 30 Tagen gestartet haben, verlassene Tools rutschen also nach unten.",
+   "**Bewertung** stammt aus den Rezensionen im Apify Store. 4,5 oder mehr bei Dutzenden Bewertungen spricht für verlässliche Daten.",
+   "**Preismodell** unterscheidet sich je nach Actor (pro Ergebnis, pro Ereignis oder Monatsmiete). Der aktuelle Preis steht immer auf der Seite des Actors, vergleichen Sie dort vor einem großen Lauf.",
+   "**Erst klein testen.** Begrenzen Sie die Eingabe auf 10 oder 20 Ergebnisse, prüfen Sie die benötigten Felder und skalieren Sie dann."
+  ],
+  "runTitle": "So starten Sie einen Actor",
+  "run": [
+   "[Kostenloses Apify-Konto anlegen]({signup}) (ohne Kreditkarte).",
+   "Einen Actor aus der Liste öffnen und auf **Try for free** klicken.",
+   "Das Eingabeformular ausfüllen (Suchbegriffe, URLs oder Filter) und auf **Start** klicken.",
+   "Ergebnisse im Tab **Output** herunterladen, oder den Actor zeitgesteuert laufen lassen und die Daten an Google Sheets, Zapier, Make, n8n oder einen Webhook senden."
+  ],
+  "fromCode": "Per Code haben alle Actors dieselbe API:",
+  "faqTitle": "Häufige Fragen",
+  "faqUpdatedQ": "Wie oft wird die Liste aktualisiert?",
+  "faqUpdatedA": "Eine GitHub Action baut sie jede Woche aus der öffentlichen Apify-Store-API neu auf. Neue Actors erscheinen, verwaiste fallen automatisch heraus.",
+  "faqAddQ": "Kann ich meinen eigenen Actor hinzufügen?",
+  "faqAddA": "Veröffentlichen Sie ihn im Apify Store in der Kategorie {category}. Sobald er genutzt wird, landet er beim nächsten wöchentlichen Update in der Liste. Kein Pull Request nötig.",
+  "customTitle": "Sie brauchen einen individuellen Scraper?",
+  "customText": "Wenn kein Actor Ihre Quelle abdeckt, entwickelt und pflegt [{brand}]({site}) individuelle Apify-Scraper. Schreiben Sie an {email} mit der Website und den benötigten Feldern.",
+  "footer": "Wenn Ihnen diese Liste Zeit gespart hat, hilft ein Stern anderen, sie zu finden. Links zu Apify enthalten einen Empfehlungscode, der die Pflege der Liste finanziert, ohne Mehrkosten für Sie.",
+  "groupPageTitle": "{title}: {n} Apify-Actors",
+  "groupPageIntro": "Teil von [{catalog}](../README.md). Sortiert nach Nutzern pro Monat. Aktualisiert am {today}.",
+  "groupPageCta": "[Kostenloses Apify-Konto anlegen]({signup}), um jeden davon zu starten.",
+  "llmsIntro": "Aktualisiert am {today}. Nutzer pro Monat = verschiedene Nutzer in den letzten 30 Tagen. Links enthalten einen Empfehlungscode.",
+  "llmsUsers": "{n} Nutzer pro Monat"
+ }
+}
