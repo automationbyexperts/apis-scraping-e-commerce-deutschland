@@ -23,3 +23,7 @@ This folder is **not an actor**. Never run `apify push` here.
 
 `build.py` is byte-identical across all category catalogs in `APIFY_GITHUB/`. Change it in one,
 copy it to all of them.
+
+The `FORBIDDEN` credential guard in `build.py` matches `CAP-` case-sensitively (fixed 2026-11-23).
+It used to ignore case, so a third-party slug like `flat-cap-contact-scraper` tripped it and failed the
+weekly "Refresh catalog" run in all 14 catalogs. Keep the other strings case-insensitive.
