@@ -6,52 +6,52 @@
   {
    "slug": "dach",
    "title": "Amazon.de, Otto, Kaufland und DACH-Shops",
-   "count": 309
+   "count": 313
   },
   {
    "slug": "amazon",
    "title": "Amazon",
-   "count": 85
+   "count": 84
   },
   {
    "slug": "shopify-stores",
    "title": "Shopify und Onlineshops",
-   "count": 58
+   "count": 65
   },
   {
    "slug": "chinese-marketplaces",
    "title": "AliExpress, Temu, Shein und Alibaba",
-   "count": 107
+   "count": 115
   },
   {
    "slug": "ebay-etsy",
    "title": "eBay und Etsy",
-   "count": 51
+   "count": 56
   },
   {
    "slug": "us-retailers",
    "title": "Walmart, Target und große Handelsketten",
-   "count": 72
+   "count": 76
   },
   {
    "slug": "price-comparison",
    "title": "Google Shopping und Preisvergleich",
-   "count": 42
+   "count": 45
   },
   {
    "slug": "global-marketplaces",
    "title": "Internationale Marktplätze",
-   "count": 182
+   "count": 168
   },
   {
    "slug": "reviews",
    "title": "Produktbewertungen",
-   "count": 166
+   "count": 177
   },
   {
    "slug": "ads-and-trends",
    "title": "Werbeanzeigen und Produkttrends",
-   "count": 39
+   "count": 36
   },
   {
    "slug": "other-ecommerce",
@@ -229,6 +229,20 @@
    "group": "chinese-marketplaces"
   },
   {
+   "id": "silentflow/jd-products-scraper",
+   "username": "silentflow",
+   "name": "jd-products-scraper",
+   "title": "JD Products Scraper | JD.com Prices, Brands and Barcodes",
+   "developer": "SilentFlow",
+   "description": "JD.com (京东) products scraper: search 京东商品 by keyword, shop page or SKU id and get the real CNY price, brand, model, UPC barcode, shop, review count and good rate, variants, stock and delivery promise. 50 products in 30 seconds, 67 fields each. No JD account needed, export to CSV, Excel or JSON",
+   "totalUsers": 6006,
+   "monthlyUsers": 915,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/silentflow/jd-products-scraper?fpr=youssef",
+   "group": "global-marketplaces"
+  },
+  {
    "id": "zen-studio/taobao-search-scraper",
    "username": "zen-studio",
    "name": "taobao-search-scraper",
@@ -369,6 +383,20 @@
    "group": "global-marketplaces"
   },
   {
+   "id": "zen-studio/aliexpress-scraper",
+   "username": "zen-studio",
+   "name": "aliexpress-scraper",
+   "title": "AliExpress Product Scraper - Prices, Variants & Reviews",
+   "developer": "Zen Studio",
+   "description": "Extract AliExpress products with exact sales counts, prices, every variant with its own stock, seller stats, and buyer reviews with photos. Pick your delivery country, currency and language: catalog, prices, VAT and delivery times all follow. 78 fields per product. Export to JSON, CSV, Excel",
+   "totalUsers": 1230,
+   "monthlyUsers": 532,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/zen-studio/aliexpress-scraper?fpr=youssef",
+   "group": "chinese-marketplaces"
+  },
+  {
    "id": "kaix/google-maps-reviews-scraper",
    "username": "kaix",
    "name": "google-maps-reviews-scraper",
@@ -409,6 +437,20 @@
    "reviews": 0,
    "url": "https://apify.com/apt_marble/amazon-search-results-scraper?fpr=youssef",
    "group": "amazon"
+  },
+  {
+   "id": "lergassy/tiktok-shop-top-products-scraper",
+   "username": "lergassy",
+   "name": "tiktok-shop-top-products-scraper",
+   "title": "TikTok Shop Top Products Scraper",
+   "developer": "Matvey",
+   "description": "Find TikTok Shop best-sellers, fastest-growing products and top affiliate commissions: revenue (GMV), units sold, growth, video/live/shop-window split for yesterday, last 7 or 30 days or a past month. 15 markets incl. UK, DE, FR, JP, BR. By keyword, category, shop or creator's products",
+   "totalUsers": 772,
+   "monthlyUsers": 487,
+   "rating": 5,
+   "reviews": 2,
+   "url": "https://apify.com/lergassy/tiktok-shop-top-products-scraper?fpr=youssef",
+   "group": "chinese-marketplaces"
   },
   {
    "id": "pratikdani/tiktok-shop-scraper",
@@ -523,20 +565,6 @@
    "group": "ebay-etsy"
   },
   {
-   "id": "jaybird/amazon-reviews-scraper",
-   "username": "jaybird",
-   "name": "amazon-reviews-scraper",
-   "title": "Amazon Reviews Scraper - Review Text, Ratings & ASIN Data",
-   "developer": "Jaybird Technologies",
-   "description": "Scrape Amazon reviews by ASIN, URL, or keyword into JSON (text, stars, verified flags, helpful votes, histogram, Customers say). Note: since Oct 2026 amazon.com returns summary/excerpts only (no login); Top reviews still on.co.uk/.de/.ca. Pay per result",
-   "totalUsers": 1026,
-   "monthlyUsers": 345,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/jaybird/amazon-reviews-scraper?fpr=youssef",
-   "group": "amazon"
-  },
-  {
    "id": "intropix/instagram-posts-reels-scraper",
    "username": "intropix",
    "name": "instagram-posts-reels-scraper",
@@ -591,6 +619,20 @@
    "reviews": 1,
    "url": "https://apify.com/amazon-scraper/amazon-bestsellers-scraper?fpr=youssef",
    "group": "amazon"
+  },
+  {
+   "id": "trakk/similarweb-scraper",
+   "username": "trakk",
+   "name": "similarweb-scraper",
+   "title": "Similarweb Scraper API - Website Traffic & Competitor Analysis",
+   "developer": "Kelopr_bk",
+   "description": "Website traffic checker and analytics for any domain, powered by Similarweb data: monthly visits, global & country rank, traffic sources, keywords, AI traffic from ChatGPT, Gemini & Claude, audience age & gender, referrers, tech stack and competitor analysis. Bulk domains, no login",
+   "totalUsers": 617,
+   "monthlyUsers": 311,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/trakk/similarweb-scraper?fpr=youssef",
+   "group": "other-ecommerce"
   },
   {
    "id": "gio21/shopee-scraper",
@@ -1111,20 +1153,6 @@
    "group": "chinese-marketplaces"
   },
   {
-   "id": "trakk/tiktok-shop-search-scraper",
-   "username": "trakk",
-   "name": "tiktok-shop-search-scraper",
-   "title": "TikTok Shop Scraper API - Products, Reviews & Sellers",
-   "developer": "Kelopr_bk",
-   "description": "Collect the official TikTok Shop US product feed without keywords, or search products and collect details, SKUs, stock, shipping, videos and reviews. Regional catalogs and direct product inputs remain supported",
-   "totalUsers": 641,
-   "monthlyUsers": 156,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/trakk/tiktok-shop-search-scraper?fpr=youssef",
-   "group": "chinese-marketplaces"
-  },
-  {
    "id": "memo23/allegro-scraper",
    "username": "memo23",
    "name": "allegro-scraper",
@@ -1293,20 +1321,6 @@
    "group": "reviews"
   },
   {
-   "id": "intropix/instagram-stories-scraper",
-   "username": "intropix",
-   "name": "instagram-stories-scraper",
-   "title": "Instagram Stories Scraper",
-   "developer": "IntroPix",
-   "description": "Scrape Instagram stories with no login, no cookies, no OAuth. Reads age-restricted (18+) accounts that anonymous story viewers and scrapers cannot see: alcohol, vape, and nightlife brands. Fixed 22-field JSON per story.; failed lookups never charged",
-   "totalUsers": 399,
-   "monthlyUsers": 130,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/intropix/instagram-stories-scraper?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
    "id": "burbn/google-shopping-scraper",
    "username": "burbn",
    "name": "google-shopping-scraper",
@@ -1319,20 +1333,6 @@
    "reviews": 2,
    "url": "https://apify.com/burbn/google-shopping-scraper?fpr=youssef",
    "group": "price-comparison"
-  },
-  {
-   "id": "khadinakbar/amazon-bestsellers-scraper",
-   "username": "khadinakbar",
-   "name": "amazon-bestsellers-scraper",
-   "title": "Amazon Bestsellers Scraper",
-   "developer": "Khadin Akbar",
-   "description": "Scrape Amazon Best Sellers, New Releases, Movers & Shakers, Most Wished For and Gift Ideas rankings by category across 10 marketplaces. Returns ranked products with rank, ASIN, title, price, rating, review count, Prime status and image, with no login",
-   "totalUsers": 522,
-   "monthlyUsers": 129,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/khadinakbar/amazon-bestsellers-scraper?fpr=youssef",
-   "group": "amazon"
   },
   {
    "id": "devcake/alibaba-products-scraper",
@@ -1587,20 +1587,6 @@
    "group": "shopify-stores"
   },
   {
-   "id": "memo23/shopee-reviews-scraper",
-   "username": "memo23",
-   "name": "shopee-reviews-scraper",
-   "title": "Shopee Reviews Scraper [] Works Where Others Fail",
-   "developer": "Muhamed Didovic",
-   "description": "[] Shopee reviews that still come back after Shopee closed its product review feed in September 2026. Any shop or product URL: stars, text, variation, sub-ratings, photos, video, seller reply. 1-star complaint mining, incremental monitoring. SG, MY, PH, TH, VN, BR, TW, MX",
-   "totalUsers": 215,
-   "monthlyUsers": 98,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/memo23/shopee-reviews-scraper?fpr=youssef",
-   "group": "global-marketplaces"
-  },
-  {
    "id": "fatihtahta/lazada-scraper",
    "username": "fatihtahta",
    "name": "lazada-scraper",
@@ -1613,20 +1599,6 @@
    "reviews": 1,
    "url": "https://apify.com/fatihtahta/lazada-scraper?fpr=youssef",
    "group": "global-marketplaces"
-  },
-  {
-   "id": "automation-lab/walmart-scraper",
-   "username": "automation-lab",
-   "name": "walmart-scraper",
-   "title": "Walmart Product Scraper - Prices, Deals & Stock",
-   "developer": "Automation Lab",
-   "description": "Scrape Walmart products from keywords, category pages or product URLs. Get prices, was prices, deals, stock, sellers, ratings, UPC, specs and variants. Filter by price and brand. For price monitoring and product research",
-   "totalUsers": 476,
-   "monthlyUsers": 96,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/automation-lab/walmart-scraper?fpr=youssef",
-   "group": "us-retailers"
   },
   {
    "id": "automation-lab/airbnb-listing",
@@ -1697,20 +1669,6 @@
    "reviews": 1,
    "url": "https://apify.com/fetch_cat/pinterest-search-scraper?fpr=youssef",
    "group": "other-ecommerce"
-  },
-  {
-   "id": "harshmaur/facebook-ads-library-scraper",
-   "username": "harshmaur",
-   "name": "facebook-ads-library-scraper",
-   "title": "Facebook Ads Library Scraper - Creative & Reach ()",
-   "developer": "Harsh Maur",
-   "description": "Scrape ads from the Facebook (Meta) Ad Library by keyword or Page - no login, no Meta API key. Full ad creative (text, images, video, CTA, link), advertiser, run dates, ad duration & EU/UK reach.. 70+ fields per ad. Works with AI Agents, MCP, n8n, Make & Zapier",
-   "totalUsers": 186,
-   "monthlyUsers": 88,
-   "rating": 5,
-   "reviews": 3,
-   "url": "https://apify.com/harshmaur/facebook-ads-library-scraper?fpr=youssef",
-   "group": "ads-and-trends"
   },
   {
    "id": "dltik/pinterest-scraper",
@@ -2189,20 +2147,6 @@
    "group": "reviews"
   },
   {
-   "id": "piotrv1001/coupang-listings-scraper",
-   "username": "piotrv1001",
-   "name": "coupang-listings-scraper",
-   "title": "Coupang Scraper (쿠팡) | Prices, Rocket Delivery & Ratings",
-   "developer": "FalconScrape",
-   "description": "Scrape Coupang (쿠팡) search and category listings: price, discount, rating, review count, Rocket badges and rank. Sort and filter by price range, Rocket delivery, rating and category",
-   "totalUsers": 234,
-   "monthlyUsers": 57,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/piotrv1001/coupang-listings-scraper?fpr=youssef",
-   "group": "global-marketplaces"
-  },
-  {
    "id": "huggable_quote/naver-map-scraper",
    "username": "huggable_quote",
    "name": "naver-map-scraper",
@@ -2215,20 +2159,6 @@
    "reviews": 2,
    "url": "https://apify.com/huggable_quote/naver-map-scraper?fpr=youssef",
    "group": "reviews"
-  },
-  {
-   "id": "khadinakbar/tiktok-ads-scraper",
-   "username": "khadinakbar",
-   "name": "tiktok-ads-scraper",
-   "title": "TikTok Ads Scraper - Creative Center Top Ads",
-   "developer": "Khadin Akbar",
-   "description": "Scrape TikTok Creative Center Top Ads: video URLs, brand, likes, CTR rank, budget level, objective & industry. Global (up to ~400 ads per industry) or 28 markets. Up to 2,000 ads per run. No login",
-   "totalUsers": 415,
-   "monthlyUsers": 55,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/khadinakbar/tiktok-ads-scraper?fpr=youssef",
-   "group": "other-ecommerce"
   },
   {
    "id": "johnvc/fuelprices",
@@ -2441,20 +2371,6 @@
    "group": "other-ecommerce"
   },
   {
-   "id": "abotapi/coupang-scraper",
-   "username": "abotapi",
-   "name": "coupang-scraper",
-   "title": "Coupang Scraper - Products, Prices & 20+ Fields",
-   "developer": "Abot API",
-   "description": "Scrape Coupang.com products by keyword, category or URL. Extract 20+ fields including title, brand, price, discount, ratings, reviews, availability, delivery, images, full descriptions, product URLs and image galleries",
-   "totalUsers": 394,
-   "monthlyUsers": 47,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/abotapi/coupang-scraper?fpr=youssef",
-   "group": "global-marketplaces"
-  },
-  {
    "id": "amazon-scraper/amazon-search-scraper",
    "username": "amazon-scraper",
    "name": "amazon-search-scraper",
@@ -2523,6 +2439,20 @@
    "reviews": 1,
    "url": "https://apify.com/dz_omar/doordash-scraper?fpr=youssef",
    "group": "reviews"
+  },
+  {
+   "id": "memo23/goofish-xianyu-scraper",
+   "username": "memo23",
+   "name": "goofish-xianyu-scraper",
+   "title": "Goofish Scraper | 闲鱼 Xianyu Idlefish · New Listings",
+   "developer": "Muhamed Didovic",
+   "description": "Goofish scraper (Xianyu 闲鱼 / Idlefish): English or Chinese keywords, item links or whole seller shops, up to 1,000 per keyword. Price in CNY, price drops, condition, wants, region, photos, seller stats; full details on request. Monitor mode returns only new listings. No login",
+   "totalUsers": 72,
+   "monthlyUsers": 45,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/memo23/goofish-xianyu-scraper?fpr=youssef",
+   "group": "other-ecommerce"
   },
   {
    "id": "kazkn/vinted-smart-scraper",
@@ -2858,20 +2788,6 @@
    "rating": 5,
    "reviews": 2,
    "url": "https://apify.com/saswave/amazon-product-scraper?fpr=youssef",
-   "group": "amazon"
-  },
-  {
-   "id": "getascraper/kdp-book-niche-analyzer",
-   "username": "getascraper",
-   "name": "kdp-book-niche-analyzer",
-   "title": "Amazon KDP Book Niche Analyzer: Self Publishing Niche Research",
-   "developer": "GetAScraper",
-   "description": "Amazon KDP niche research for self publishing. Check any keyword for real Kindle Best Sellers Rank, prices, ratings, book age and competition per book, plus an evidence-based opportunity score. Export CSV or JSON, add a verdict row per niche, and monitor niches on a schedule",
-   "totalUsers": 163,
-   "monthlyUsers": 35,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/getascraper/kdp-book-niche-analyzer?fpr=youssef",
    "group": "amazon"
   },
   {
@@ -3561,20 +3477,6 @@
    "group": "reviews"
   },
   {
-   "id": "blackfalcondata/coches-scraper",
-   "username": "blackfalcondata",
-   "name": "coches-scraper",
-   "title": "Coches.net Scraper [] - Used Cars in Spain",
-   "developer": "Black Falcon Data",
-   "description": "Scrape coches.net - Spain's largest vehicle marketplace for cars · vans · motorbikes & classics with price · make/model · seller ratings per listing. Incremental mode tracks new and changed listings across scheduled runs",
-   "totalUsers": 83,
-   "monthlyUsers": 24,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/blackfalcondata/coches-scraper?fpr=youssef",
-   "group": "reviews"
-  },
-  {
    "id": "lergassy/mercado-livre-scraper",
    "username": "lergassy",
    "name": "mercado-livre-scraper",
@@ -3729,34 +3631,6 @@
    "group": "ebay-etsy"
   },
   {
-   "id": "abotapi/trendyol-scraper",
-   "username": "abotapi",
-   "name": "trendyol-scraper",
-   "title": "Trendyol Scraper - Products, Sellers, Reviews & Q&A",
-   "developer": "Abot API",
-   "description": "Scrape Trendyol products, prices, ratings, badges, sellers, full reviews and Q&A. Search by keyword with filters, paste search, category, store or product URLs, or use reviews-only mode for a list of products",
-   "totalUsers": 105,
-   "monthlyUsers": 23,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/abotapi/trendyol-scraper?fpr=youssef",
-   "group": "global-marketplaces"
-  },
-  {
-   "id": "lentic_clockss/temu-scraper",
-   "username": "lentic_clockss",
-   "name": "temu-scraper",
-   "title": "Temu Product Scraper | Prices Sold Global",
-   "developer": "kane liu",
-   "description": "Extract Temu product IDs, prices, ratings, sold counts, images, and variants from regional storefronts across the US, UK, EU, and Asia by keyword, category, or URL. Export JSON, CSV, or Excel for e-commerce research, APIs, and MCP agents",
-   "totalUsers": 62,
-   "monthlyUsers": 23,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/lentic_clockss/temu-scraper?fpr=youssef",
-   "group": "chinese-marketplaces"
-  },
-  {
    "id": "lentic_clockss/seatgeek-scraper",
    "username": "lentic_clockss",
    "name": "seatgeek-scraper",
@@ -3855,6 +3729,20 @@
    "group": "global-marketplaces"
   },
   {
+   "id": "lergassy/mercadolibre-products-scraper",
+   "username": "lergassy",
+   "name": "mercadolibre-products-scraper",
+   "title": "MercadoLibre Products Scraper - Prices, Discounts & Units Sold",
+   "developer": "Matvey",
+   "description": "MercadoLibre products scraper and MercadoLibre price scraper for Mexico, Argentina, Colombia, Chile, Peru and more: price, original price, discount, instalments, rating, units sold, seller, official store and free shipping from any search. Plus product pages, deals and stores. No login",
+   "totalUsers": 48,
+   "monthlyUsers": 22,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/lergassy/mercadolibre-products-scraper?fpr=youssef",
+   "group": "global-marketplaces"
+  },
+  {
    "id": "alom/google-flights-scraper",
    "username": "alom",
    "name": "google-flights-scraper",
@@ -3923,20 +3811,6 @@
    "reviews": 8,
    "url": "https://apify.com/itclan-bd/daraz-product-scraper?fpr=youssef",
    "group": "global-marketplaces"
-  },
-  {
-   "id": "outspoken_strategy/twitter-comments-scraper",
-   "username": "outspoken_strategy",
-   "name": "twitter-comments-scraper",
-   "title": "Twitter (X) Comments Scraper",
-   "developer": "code craker",
-   "description": "Scrape replies (comments) of Twitter/X posts from their URLs - many posts in one run. Returns text, author, favorites, retweets, replies and the source tweet each reply belongs to. Compatible with api-ninja/x-twitter-replies-retweets-scraper",
-   "totalUsers": 168,
-   "monthlyUsers": 21,
-   "rating": 4.0,
-   "reviews": 3,
-   "url": "https://apify.com/outspoken_strategy/twitter-comments-scraper?fpr=youssef",
-   "group": "other-ecommerce"
   },
   {
    "id": "memo23/apify-ricardo-ch-scraper",
@@ -4275,34 +4149,6 @@
    "group": "other-ecommerce"
   },
   {
-   "id": "abotapi/product-reviews-australia-scraper",
-   "username": "abotapi",
-   "name": "product-reviews-australia-scraper",
-   "title": "ProductReview.com.au Scraper - Products, Businesses & Reviews",
-   "developer": "Abot API",
-   "description": "Scrape ProductReview.com.au products, businesses and customer reviews. Search by location, category or custom query with advanced filters. Extract business details, ratings, review content and structured review insights",
-   "totalUsers": 75,
-   "monthlyUsers": 18,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/abotapi/product-reviews-australia-scraper?fpr=youssef",
-   "group": "reviews"
-  },
-  {
-   "id": "vivid-softwares/facebook-property-scraper",
-   "username": "vivid-softwares",
-   "name": "facebook-property-scraper",
-   "title": "Facebook Marketplace Rentals & Property Scraper",
-   "developer": "VividSoftwares",
-   "description": "Scrape Facebook Marketplace rentals and homes for sale without the noise: salon rooms, offices, furniture and sale posts are filtered out of rental searches. Get beds, baths, property type, parking, garden, size, availability, price, map data and descriptions",
-   "totalUsers": 73,
-   "monthlyUsers": 18,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/vivid-softwares/facebook-property-scraper?fpr=youssef",
-   "group": "global-marketplaces"
-  },
-  {
    "id": "johnvc/apple-app-store-search",
    "username": "johnvc",
    "name": "apple-app-store-search",
@@ -4315,20 +4161,6 @@
    "reviews": 4,
    "url": "https://apify.com/johnvc/apple-app-store-search?fpr=youssef",
    "group": "reviews"
-  },
-  {
-   "id": "rastriq/rbauction-scraper",
-   "username": "rastriq",
-   "name": "rbauction-scraper",
-   "title": "Ritchie Bros Scraper - Heavy Equipment Listings",
-   "developer": "Rastriq - Structured data from the world",
-   "description": "Scrape active equipment listings from Ritchie Bros (RB Auction), IronPlanet and GovPlanet. Extract make, model, year, hours, location, photos and inspection data across construction, agriculture and trucks. No login. Export to JSON, CSV or Excel",
-   "totalUsers": 62,
-   "monthlyUsers": 18,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/rastriq/rbauction-scraper?fpr=youssef",
-   "group": "other-ecommerce"
   },
   {
    "id": "lentic_clockss/walmart-scraper",
@@ -4443,20 +4275,6 @@
    "group": "us-retailers"
   },
   {
-   "id": "shahidirfan/noon-reviews-scraper",
-   "username": "shahidirfan",
-   "name": "noon-reviews-scraper",
-   "title": "Noon Reviews Scraper",
-   "developer": "Shahid Irfan",
-   "description": "Harvest Noon product reviews and ratings in bulk. Extract customer feedback, detailed insights & seller performance data. Perfect for market research, competitive analysis, pricing optimization & consumer behavior intelligence",
-   "totalUsers": 62,
-   "monthlyUsers": 17,
-   "rating": 4.3,
-   "reviews": 6,
-   "url": "https://apify.com/shahidirfan/noon-reviews-scraper?fpr=youssef",
-   "group": "global-marketplaces"
-  },
-  {
    "id": "shahidirfan/Sephora-Reviews-Scraper",
    "username": "shahidirfan",
    "name": "Sephora-Reviews-Scraper",
@@ -4539,20 +4357,6 @@
    "reviews": 15,
    "url": "https://apify.com/memo23/zalando-scraper?fpr=youssef",
    "group": "dach"
-  },
-  {
-   "id": "trovevault/woocommerce-products-scraper",
-   "username": "trovevault",
-   "name": "woocommerce-products-scraper",
-   "title": "WooCommerce Products Scraper",
-   "developer": "Trove Vault",
-   "description": "Scrape every product from any WooCommerce store using just the store domain, no login, no API keys, no category URLs required. Uses the public WooCommerce Store API, which is enabled by default on all WooCommerce 4.0+ stores",
-   "totalUsers": 191,
-   "monthlyUsers": 16,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/trovevault/woocommerce-products-scraper?fpr=youssef",
-   "group": "shopify-stores"
   },
   {
    "id": "axlymxp/etsy-scraper",
@@ -4821,20 +4625,6 @@
    "group": "other-ecommerce"
   },
   {
-   "id": "codebyte/pinterest-ads-repository",
-   "username": "codebyte",
-   "name": "pinterest-ads-repository",
-   "title": "Pinterest Ads Repository",
-   "developer": "Codebyte",
-   "description": "Extract Pinterest advertising data from the Ad Library / Ads Repository. Scrape ad campaigns, images, targeting details, and advertiser info across 29 markets. Perfect for market research, competitive intelligence, and ad transparency. Filter by country, category, gender, age, and date ranges",
-   "totalUsers": 82,
-   "monthlyUsers": 14,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/codebyte/pinterest-ads-repository?fpr=youssef",
-   "group": "ads-and-trends"
-  },
-  {
    "id": "shahidirfan/Zara-Product-Scraper",
    "username": "shahidirfan",
    "name": "Zara-Product-Scraper",
@@ -4961,20 +4751,6 @@
    "group": "chinese-marketplaces"
   },
   {
-   "id": "menus-r-us/restaurant-menu-scraper",
-   "username": "menus-r-us",
-   "name": "restaurant-menu-scraper",
-   "title": "Restaurant Menu Scraper",
-   "developer": "Douglas Page",
-   "description": "Extract structured menu data from restaurant websites: items, prices, descriptions, categories. Handles Toast, Square, Popmenu and PDFs. Search by name + location or provide URLs. Billable flag on every row. ~55% of submitted URLs return a billable menu; failures and low-quality results are free",
-   "totalUsers": 191,
-   "monthlyUsers": 13,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/menus-r-us/restaurant-menu-scraper?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
    "id": "malikgen/rental-cars-price-scraper",
    "username": "malikgen",
    "name": "rental-cars-price-scraper",
@@ -5029,20 +4805,6 @@
    "reviews": 2,
    "url": "https://apify.com/emastra/subito-it-motori?fpr=youssef",
    "group": "other-ecommerce"
-  },
-  {
-   "id": "fatihtahta/tokopedia-scraper",
-   "username": "fatihtahta",
-   "name": "tokopedia-scraper",
-   "title": "Tokopedia Scraper | All-In-One",
-   "developer": "Fatih Tahta",
-   "description": "Get product listings, search results, and merchant pages from Tokopedia, Indonesia’s largest marketplace. Extract titles, prices, discounts, ratings, seller details and more. Ideal for price tracking, assortment planning, seller discovery, and marketplace analytics",
-   "totalUsers": 104,
-   "monthlyUsers": 13,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/fatihtahta/tokopedia-scraper?fpr=youssef",
-   "group": "global-marketplaces"
   },
   {
    "id": "fatihtahta/shopify-app-store-scraper",
@@ -5101,20 +4863,6 @@
    "group": "other-ecommerce"
   },
   {
-   "id": "shahidirfan/B-H-Photo-Scraper",
-   "username": "shahidirfan",
-   "name": "B-H-Photo-Scraper",
-   "title": "B&H Photo Scraper",
-   "developer": "Shahid Irfan",
-   "description": "Extract product prices, descriptions, specs, and reviews from B&H Photo using this Apify actor. Export data in JSON, CSV, Excel, XML, or RSS. Automate e-commerce insights and boost your product research with powerful web scraping!",
-   "totalUsers": 69,
-   "monthlyUsers": 13,
-   "rating": 5.0,
-   "reviews": 5,
-   "url": "https://apify.com/shahidirfan/B-H-Photo-Scraper?fpr=youssef",
-   "group": "reviews"
-  },
-  {
    "id": "shahidirfan/Takealot-Products-Scraper",
    "username": "shahidirfan",
    "name": "Takealot-Products-Scraper",
@@ -5127,20 +4875,6 @@
    "reviews": 5,
    "url": "https://apify.com/shahidirfan/Takealot-Products-Scraper?fpr=youssef",
    "group": "reviews"
-  },
-  {
-   "id": "muhammetakkurtt/bolcom-reviews-scraper",
-   "username": "muhammetakkurtt",
-   "name": "bolcom-reviews-scraper",
-   "title": "Bol.com Reviews Scraper",
-   "developer": "Muhammet Akkurt",
-   "description": "Scrape customer reviews from any Bol.com product - by URL or ID. Get reviewer, star rating, title, review text, date, verified flag, pros and cons. Belgium & Netherlands. Export as JSON, CSV or Excel",
-   "totalUsers": 15,
-   "monthlyUsers": 13,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/muhammetakkurtt/bolcom-reviews-scraper?fpr=youssef",
-   "group": "global-marketplaces"
   },
   {
    "id": "logical_scrapers/amazon-product-scraper",
@@ -5185,20 +4919,6 @@
    "group": "global-marketplaces"
   },
   {
-   "id": "dtrungtin/ebay-search-scraper",
-   "username": "dtrungtin",
-   "name": "ebay-search-scraper",
-   "title": "eBay Search Scraper",
-   "developer": "Tin",
-   "description": "Unofficial eBay API to extract data from eBay based on keywords or categories. Scrape prices, product descriptions, images, location, availability, brand, and more. Download extracted data in structured format and use it in reports, spreadsheets, databases, and applications",
-   "totalUsers": 156,
-   "monthlyUsers": 12,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/dtrungtin/ebay-search-scraper?fpr=youssef",
-   "group": "ebay-etsy"
-  },
-  {
    "id": "piotrv1001/amazon-storefront-scraper",
    "username": "piotrv1001",
    "name": "amazon-storefront-scraper",
@@ -5225,20 +4945,6 @@
    "reviews": 2,
    "url": "https://apify.com/scraperhive/meta-ads-library-scraper?fpr=youssef",
    "group": "ads-and-trends"
-  },
-  {
-   "id": "maximedupre/allegro-scraper",
-   "username": "maximedupre",
-   "name": "allegro-scraper",
-   "title": "Allegro Scraper: Products, Prices & Seller Leads",
-   "developer": "Maxime Dupré",
-   "description": "Collect public Allegro offers, seller profiles, and product reviews from searches, links, offer numbers, or EAN barcodes. Get prices, delivery, sellers, product details, and ratings. Add published seller emails, phones, and websites when needed",
-   "totalUsers": 67,
-   "monthlyUsers": 12,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/maximedupre/allegro-scraper?fpr=youssef",
-   "group": "global-marketplaces"
   },
   {
    "id": "fatihtahta/otomoto-pl-scraper",
@@ -5309,6 +5015,20 @@
    "reviews": 0,
    "url": "https://apify.com/abotapi/otto-de-scraper?fpr=youssef",
    "group": "dach"
+  },
+  {
+   "id": "apimy/ebay-product-scraper",
+   "username": "apimy",
+   "name": "ebay-product-scraper",
+   "title": "eBay Product Scraper - Item Details, Specifics & Seller",
+   "developer": "Nikita Iakovlev",
+   "description": "Look up eBay listings by item number or link: price, was-price, total with shipping, condition, stock, sold count, watchers, seller feedback, brand, MPN, UPC/EAN, item specifics, images, returns, location. 8 eBay sites. Typical run: 1 listing in about 5 seconds",
+   "totalUsers": 23,
+   "monthlyUsers": 12,
+   "rating": 5.0,
+   "reviews": 2,
+   "url": "https://apify.com/apimy/ebay-product-scraper?fpr=youssef",
+   "group": "ebay-etsy"
   },
   {
    "id": "sleepmodesystems/taobao-scraper",
@@ -5409,20 +5129,6 @@
    "group": "global-marketplaces"
   },
   {
-   "id": "shahidirfan/zepto-product-scraper",
-   "username": "shahidirfan",
-   "name": "zepto-product-scraper",
-   "title": "Zepto Product Scraper",
-   "developer": "Shahid Irfan",
-   "description": "Extract real-time product data from Zepto's quick commerce platform. Scrape prices, availability, product details & inventory for competitive analysis, dynamic pricing & market research. Automate grocery e-commerce workflows with precision",
-   "totalUsers": 176,
-   "monthlyUsers": 11,
-   "rating": 5,
-   "reviews": 5,
-   "url": "https://apify.com/shahidirfan/zepto-product-scraper?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
    "id": "sian.agency/alibaba-1688-wholesale-scraper",
    "username": "sian.agency",
    "name": "alibaba-1688-wholesale-scraper",
@@ -5507,6 +5213,20 @@
    "group": "other-ecommerce"
   },
   {
+   "id": "rel8ble/alibaba-product-search-scraper",
+   "username": "rel8ble",
+   "name": "alibaba-product-search-scraper",
+   "title": "Alibaba Scraper & API - Products, Prices, MOQ & Suppliers",
+   "developer": "Giovanni Rich",
+   "description": "Alibaba scraper and API: search Alibaba.com by keyword and get one row per product with price range, quantity price tiers, MOQ, supplier name, country, years, Verified/Gold/Trade Assurance flags and rating. Filter by price, MOQ and country. For B2B sourcing and dropshipping",
+   "totalUsers": 26,
+   "monthlyUsers": 11,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/rel8ble/alibaba-product-search-scraper?fpr=youssef",
+   "group": "chinese-marketplaces"
+  },
+  {
    "id": "sian.agency/douglas-product-scraper",
    "username": "sian.agency",
    "name": "douglas-product-scraper",
@@ -5547,6 +5267,20 @@
    "reviews": 0,
    "url": "https://apify.com/automation-lab/amazon-brand-storefront-scraper?fpr=youssef",
    "group": "amazon"
+  },
+  {
+   "id": "cleanscrape/shopify-reviews-scraper",
+   "username": "cleanscrape",
+   "name": "shopify-reviews-scraper",
+   "title": "Shopify Product Reviews Scraper for Judge.me and Okendo",
+   "developer": "CleanScrape",
+   "description": "Export Judge.me reviews and Okendo reviews from Shopify product, collection or store links. Compare customer feedback using ratings, review text, dates, merchant replies and available media links., with rating filters and no start fee. Maintained by CleanScrape",
+   "totalUsers": 15,
+   "monthlyUsers": 11,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/cleanscrape/shopify-reviews-scraper?fpr=youssef",
+   "group": "shopify-stores"
   },
   {
    "id": "statanow/flashscore-scraper-live",
@@ -5687,20 +5421,6 @@
    "reviews": 2,
    "url": "https://apify.com/brasildados/api-consulta-nfe-por-chave?fpr=youssef",
    "group": "other-ecommerce"
-  },
-  {
-   "id": "saswave/advanced-ulta-reviews-scraper",
-   "username": "saswave",
-   "name": "advanced-ulta-reviews-scraper",
-   "title": "Advanced Ulta Reviews Scraper",
-   "developer": "SASWAVE",
-   "description": "Collect all reviews from a ulta product listed on website ulta.com Extract informations like title, description, date, location, username, badges, images/videos, rating, help score Boost your reviews monitoring and analytics at scale",
-   "totalUsers": 61,
-   "monthlyUsers": 10,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/saswave/advanced-ulta-reviews-scraper?fpr=youssef",
-   "group": "us-retailers"
   },
   {
    "id": "happyendpoint/sephora-scrapper",
@@ -5925,20 +5645,6 @@
    "reviews": 0,
    "url": "https://apify.com/codebyte/top-ranking-mobile-apps?fpr=youssef",
    "group": "reviews"
-  },
-  {
-   "id": "piotrv1001/lazada-listings-scraper",
-   "username": "piotrv1001",
-   "name": "lazada-listings-scraper",
-   "title": "Lazada Scraper | Products, Prices & Ratings",
-   "developer": "FalconScrape",
-   "description": "Scrape Lazada product listings across all SEA storefronts (SG/MY/TH/PH/VN/ID) - search results, category pages, and full product detail pages",
-   "totalUsers": 105,
-   "monthlyUsers": 9,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/piotrv1001/lazada-listings-scraper?fpr=youssef",
-   "group": "global-marketplaces"
   },
   {
    "id": "viralanalyzer/amazon-brazil-intelligence",
@@ -6333,34 +6039,6 @@
    "group": "ads-and-trends"
   },
   {
-   "id": "freecamp008/search-by-image-aliexpress",
-   "username": "freecamp008",
-   "name": "search-by-image-aliexpress",
-   "title": "Search By Image Aliexpress",
-   "developer": "Camp8 fr0",
-   "description": "The Reverse Image Search is an AliExpress Search By Image API that allows you to locate products by image URL alone. Skip the keywords and get immediate matches, pricing, and seller data using cutting-edge image search technology",
-   "totalUsers": 52,
-   "monthlyUsers": 8,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/freecamp008/search-by-image-aliexpress?fpr=youssef",
-   "group": "chinese-marketplaces"
-  },
-  {
-   "id": "devcake/globalsources-products-scraper",
-   "username": "devcake",
-   "name": "globalsources-products-scraper",
-   "title": "GlobalSources Products Scraper",
-   "developer": "devcake",
-   "description": "Find profitable products from verified manufacturers on GlobalSources.com Filter by MOQ, price, lead time",
-   "totalUsers": 50,
-   "monthlyUsers": 8,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/devcake/globalsources-products-scraper?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
    "id": "memo23/kaufland-sellers-scraper",
    "username": "memo23",
    "name": "kaufland-sellers-scraper",
@@ -6373,20 +6051,6 @@
    "reviews": 0,
    "url": "https://apify.com/memo23/kaufland-sellers-scraper?fpr=youssef",
    "group": "dach"
-  },
-  {
-   "id": "borderline/joybuy-api",
-   "username": "borderline",
-   "name": "joybuy-api",
-   "title": "Joybuy scraper",
-   "developer": "borderline",
-   "description": "Extract full product data from Joybuy (JD.com's European marketplace - FR, DE, BE, NL, LU, UK). Get prices, discounts, variants, ratings, reviews, Q&A, specs, images and delivery estimates by product URL, search URL or keyword. Fast structured JSON",
-   "totalUsers": 39,
-   "monthlyUsers": 8,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/borderline/joybuy-api?fpr=youssef",
-   "group": "global-marketplaces"
   },
   {
    "id": "piotrv1001/appsumo-scraper",
@@ -6781,20 +6445,6 @@
    "group": "other-ecommerce"
   },
   {
-   "id": "sian.agency/best-sephora-product-information-extractor",
-   "username": "sian.agency",
-   "name": "best-sephora-product-information-extractor",
-   "title": "Sephora Product Details & Reviews Scraper (with Demographics)",
-   "developer": "SIÁN OÜ",
-   "description": "Sephora reviews and product detail scraper. Look up by Sephora product ID, single or bulk. Returns reviews with rating, title, text, nickname, verified purchase, helpfulness and reviewer demographics - skin type, skin tone, eye colour, hair colour - plus full product specs, prices and images",
-   "totalUsers": 57,
-   "monthlyUsers": 7,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/sian.agency/best-sephora-product-information-extractor?fpr=youssef",
-   "group": "us-retailers"
-  },
-  {
    "id": "s-r/idealo-scraper",
    "username": "s-r",
    "name": "idealo-scraper",
@@ -6807,20 +6457,6 @@
    "reviews": 0,
    "url": "https://apify.com/s-r/idealo-scraper?fpr=youssef",
    "group": "dach"
-  },
-  {
-   "id": "codebyte/microsoft-ads-library",
-   "username": "codebyte",
-   "name": "microsoft-ads-library",
-   "title": "Microsoft Ads Library",
-   "developer": "Codebyte",
-   "description": "Scrape ads, advertisers, and ad details from the Microsoft Advertising Transparency Center (Bing Ads Library). Extract competitor ad copy, targeting data, impression stats, and advertiser information across all EU/EEA countries",
-   "totalUsers": 46,
-   "monthlyUsers": 7,
-   "rating": 1,
-   "reviews": 1,
-   "url": "https://apify.com/codebyte/microsoft-ads-library?fpr=youssef",
-   "group": "ads-and-trends"
   },
   {
    "id": "sigma-dev/yahoo-auctions-scraper",
@@ -6949,6 +6585,20 @@
    "group": "global-marketplaces"
   },
   {
+   "id": "lentic_clockss/shein-scraper",
+   "username": "lentic_clockss",
+   "name": "shein-scraper",
+   "title": "SHEIN Scraper - Products, Prices and Categories",
+   "developer": "kane liu",
+   "description": "Extract SHEIN products, prices, images, sizes, colors, ratings, and category listings across regional storefronts including the US, UK, Germany, France, and the Philippines. Export JSON, CSV, or Excel for apparel analytics, APIs, and MCP agents",
+   "totalUsers": 22,
+   "monthlyUsers": 7,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/lentic_clockss/shein-scraper?fpr=youssef",
+   "group": "chinese-marketplaces"
+  },
+  {
    "id": "lentic_clockss/globalsources-scraper",
    "username": "lentic_clockss",
    "name": "globalsources-scraper",
@@ -7019,20 +6669,6 @@
    "group": "other-ecommerce"
   },
   {
-   "id": "s-r/ean-product-image-search---extract-images-from-any-ean-gtin",
-   "username": "s-r",
-   "name": "ean-product-image-search---extract-images-from-any-ean-gtin",
-   "title": "EAN/GTIN Image extractor - Extract multiple images from any EAN",
-   "developer": "SR",
-   "description": "This image extractor searches for products using EAN codes across multiple e-commerce platforms, downloads product images, and exports comprehensive product data with stored images",
-   "totalUsers": 339,
-   "monthlyUsers": 6,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/s-r/ean-product-image-search---extract-images-from-any-ean-gtin?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
    "id": "123webdata/olx-scraper",
    "username": "123webdata",
    "name": "olx-scraper",
@@ -7073,20 +6709,6 @@
    "reviews": 0,
    "url": "https://apify.com/maplerope44/lowes-product-lookup?fpr=youssef",
    "group": "us-retailers"
-  },
-  {
-   "id": "antonionduarte/glovo-scraper",
-   "username": "antonionduarte",
-   "name": "glovo-scraper",
-   "title": "Glovo Scraper",
-   "developer": "António",
-   "description": "A Glovo scraper that extracts comprehensive restaurant data and category listings. Designed for seamless automation with retry mechanisms, rate limiting, and structured JSON outputs. Ideal for market analysis, competitive research, and operational optimization",
-   "totalUsers": 215,
-   "monthlyUsers": 6,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/antonionduarte/glovo-scraper?fpr=youssef",
-   "group": "other-ecommerce"
   },
   {
    "id": "deepmine/tiktok-shop-affiliate-products",
@@ -7327,6 +6949,20 @@
    "group": "us-retailers"
   },
   {
+   "id": "memo23/shopify-store-leads-scraper",
+   "username": "memo23",
+   "name": "shopify-store-leads-scraper",
+   "title": "Shopify & WooCommerce Store Finder | Emails, Phones",
+   "developer": "Muhamed Didovic",
+   "description": "Find Shopify and WooCommerce stores by niche, country and contact channel, ranked by website traffic, in seconds. Each store: emails, phones, socials, location, product count, prices and installed apps. Or paste store URLs to read them live. Pay per store; skip domains you already have",
+   "totalUsers": 51,
+   "monthlyUsers": 6,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/memo23/shopify-store-leads-scraper?fpr=youssef",
+   "group": "shopify-stores"
+  },
+  {
    "id": "shahidirfan/otto-de-scraper",
    "username": "shahidirfan",
    "name": "otto-de-scraper",
@@ -7369,20 +7005,6 @@
    "group": "reviews"
   },
   {
-   "id": "ivanvs/meta-ad-library-scraper",
-   "username": "ivanvs",
-   "name": "meta-ad-library-scraper",
-   "title": "Meta Ad Library Scraper",
-   "developer": "Gen First",
-   "description": "Extract details about ads from Meta Ad Library. Scrape ad details like when it was run, ad platfor, advertiser and content of ad. Download ad data in JSON, XML, Excel format",
-   "totalUsers": 40,
-   "monthlyUsers": 6,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/ivanvs/meta-ad-library-scraper?fpr=youssef",
-   "group": "ads-and-trends"
-  },
-  {
    "id": "shahidirfan/Swiggy-Restaurant-Scraper",
    "username": "shahidirfan",
    "name": "Swiggy-Restaurant-Scraper",
@@ -7409,34 +7031,6 @@
    "reviews": 0,
    "url": "https://apify.com/akash9078/made-in-china-scraper?fpr=youssef",
    "group": "chinese-marketplaces"
-  },
-  {
-   "id": "sian.agency/reliance-digital-product-scraper",
-   "username": "sian.agency",
-   "name": "reliance-digital-product-scraper",
-   "title": "Reliance Digital Product Scraper",
-   "developer": "SIÁN OÜ",
-   "description": "Scrape Reliance Digital products - price (INR), MRP, discount, ratings, images & full specifications. Keyword or category search, detail enrichment, clean JSON/CSV, no code",
-   "totalUsers": 35,
-   "monthlyUsers": 6,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/sian.agency/reliance-digital-product-scraper?fpr=youssef",
-   "group": "reviews"
-  },
-  {
-   "id": "nourishing_courier/amazon-scraper-pro",
-   "username": "nourishing_courier",
-   "name": "amazon-scraper-pro",
-   "title": "Amazon Scraper - Products, Prices, Reviews & Search Results",
-   "developer": "Ani Björkström",
-   "description": "Scrape Amazon products, reviews, prices, and search at scale. Extract titles, ASINs, prices, ratings, review text, images, sellers, and Best Seller ranks. Monitor competitors and track prices. No API key. Proxy rotation built in. Export to JSON, CSV, or Excel",
-   "totalUsers": 35,
-   "monthlyUsers": 6,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/nourishing_courier/amazon-scraper-pro?fpr=youssef",
-   "group": "amazon"
   },
   {
    "id": "saswave/iherb-reviews-scraper",
@@ -7577,6 +7171,20 @@
    "reviews": 0,
    "url": "https://apify.com/lentic_clockss/1688-global-scraper?fpr=youssef",
    "group": "chinese-marketplaces"
+  },
+  {
+   "id": "deepmine/google-maps-scraper",
+   "username": "deepmine",
+   "name": "google-maps-scraper",
+   "title": "Google Maps Scraper",
+   "developer": "DeepMine",
+   "description": "Google Maps scraper: Starter with website emails, socials, reviews and photos included, 11x cheaper than the most-used Google Maps scraper with contacts. Search by keyword and location, Maps URL or place ID; get phone, website, address, rating, hours and popular times",
+   "totalUsers": 11,
+   "monthlyUsers": 6,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/deepmine/google-maps-scraper?fpr=youssef",
+   "group": "reviews"
   },
   {
    "id": "tortuga/leboncoin-scraper",
@@ -7901,34 +7509,6 @@
    "group": "global-marketplaces"
   },
   {
-   "id": "happyendpoint/tesco-scraper",
-   "username": "happyendpoint",
-   "name": "tesco-scraper",
-   "title": "Tesco Scraper",
-   "developer": "Happy Endpoint",
-   "description": "Tesco scraper & API: extract real-time Tesco UK and Ireland grocery data: product prices, product details, keyword search results, category pages and the full category tree. Grocery price tracking and supermarket analytics. No proxies needed. Export to JSON, CSV, Excel. Sainsbury's alternative",
-   "totalUsers": 42,
-   "monthlyUsers": 5,
-   "rating": 5.0,
-   "reviews": 1,
-   "url": "https://apify.com/happyendpoint/tesco-scraper?fpr=youssef",
-   "group": "us-retailers"
-  },
-  {
-   "id": "saswave/advanced-1stdibs-scraper",
-   "username": "saswave",
-   "name": "advanced-1stdibs-scraper",
-   "title": "Advanced 1stdibs Scraper",
-   "developer": "SASWAVE",
-   "description": "Ultra fast scraper to collect items from search or direct url of website 1stdibs.com. Extract art product or other item details at scale. Gather informations and seller contact infos about phone, item price and more",
-   "totalUsers": 37,
-   "monthlyUsers": 5,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/saswave/advanced-1stdibs-scraper?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
    "id": "blackfalcondata/dba-listings-scraper",
    "username": "blackfalcondata",
    "name": "dba-listings-scraper",
@@ -8011,20 +7591,6 @@
    "reviews": 0,
    "url": "https://apify.com/lentic_clockss/tiktok-shop-scraper?fpr=youssef",
    "group": "chinese-marketplaces"
-  },
-  {
-   "id": "shahidirfan/tesco-products-scraper",
-   "username": "shahidirfan",
-   "name": "tesco-products-scraper",
-   "title": "Tesco Products Scraper",
-   "developer": "Shahid Irfan",
-   "description": "Harvest Tesco product data fast: prices, ratings, availability, and descriptions. Built for price monitoring, market research, and competitive intelligence. Perfect for retail analytics and e-commerce insights at scale",
-   "totalUsers": 19,
-   "monthlyUsers": 5,
-   "rating": 5.0,
-   "reviews": 3,
-   "url": "https://apify.com/shahidirfan/tesco-products-scraper?fpr=youssef",
-   "group": "us-retailers"
   },
   {
    "id": "abotapi/douglas-de",
@@ -8207,20 +7773,6 @@
    "reviews": 14,
    "url": "https://apify.com/blueorion/fast-google-maps-reviews-scraper?fpr=youssef",
    "group": "reviews"
-  },
-  {
-   "id": "easyapi/flipkart-product-scraper",
-   "username": "easyapi",
-   "name": "flipkart-product-scraper",
-   "title": "Flipkart Product Scraper",
-   "developer": "EasyApi",
-   "description": "Scrape product data from Flipkart search results, including prices, images, titles, and detailed product information. Perfect for price monitoring, market research, and competitive analysis",
-   "totalUsers": 350,
-   "monthlyUsers": 4,
-   "rating": 4.0,
-   "reviews": 3,
-   "url": "https://apify.com/easyapi/flipkart-product-scraper?fpr=youssef",
-   "group": "global-marketplaces"
   },
   {
    "id": "natanielsantos/flipkart-reviews-scraper",
@@ -8461,20 +8013,6 @@
    "group": "other-ecommerce"
   },
   {
-   "id": "parseforge/autotrader-scraper",
-   "username": "parseforge",
-   "name": "autotrader-scraper",
-   "title": "AutoTrader Car Listings Scraper",
-   "developer": "ParseForge",
-   "description": "Collect car listings from Autotrader.com. Extract vehicle details including price, mileage, VIN, specifications, seller info, and images. Search by make, model, year range, and location",
-   "totalUsers": 73,
-   "monthlyUsers": 4,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/parseforge/autotrader-scraper?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
    "id": "data_xplorer/trustpilot-scraper-fast",
    "username": "data_xplorer",
    "name": "trustpilot-scraper-fast",
@@ -8515,20 +8053,6 @@
    "reviews": 0,
    "url": "https://apify.com/silentflow/pinterest-scraper?fpr=youssef",
    "group": "other-ecommerce"
-  },
-  {
-   "id": "lexis-solutions/wayfair-v2-scraper",
-   "username": "lexis-solutions",
-   "name": "wayfair-v2-scraper",
-   "title": "Wayfair Scraper",
-   "developer": "Lexis Solutions",
-   "description": "Scrape product listings from Wayfair - including product names, categories, prices, availability, ratings, and images. Ideal for market research, inventory management, and price monitoring. Fast, structured, and customizable extraction from a leading home goods marketplace",
-   "totalUsers": 43,
-   "monthlyUsers": 4,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/lexis-solutions/wayfair-v2-scraper?fpr=youssef",
-   "group": "us-retailers"
   },
   {
    "id": "blackfalcondata/willhaben-all-scraper",
@@ -8769,6 +8293,20 @@
    "group": "global-marketplaces"
   },
   {
+   "id": "memo23/microcenter-product-scraper",
+   "username": "memo23",
+   "name": "microcenter-product-scraper",
+   "title": "Micro Center Product Scraper: Prices & Store Stock",
+   "developer": "Muhamed Didovic",
+   "description": "Scrape Micro Center products by keyword, category or product URL: price, original price and savings, SKU, MPN, UPC, stock count at your store, in-stock status at all 30 stores, open-box offers, full specs, ratings and reviews. Pick any store or online. Clean JSON, CSV or Excel",
+   "totalUsers": 10,
+   "monthlyUsers": 4,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/memo23/microcenter-product-scraper?fpr=youssef",
+   "group": "reviews"
+  },
+  {
    "id": "lowlanddata/kleinanzeigen-scraper",
    "username": "lowlanddata",
    "name": "kleinanzeigen-scraper",
@@ -8853,6 +8391,20 @@
    "group": "dach"
   },
   {
+   "id": "sleepmodesystems/taobao-product-details-scraper",
+   "username": "sleepmodesystems",
+   "name": "taobao-product-details-scraper",
+   "title": "Taobao Product Details Scraper",
+   "developer": "Sleep Mode Systems",
+   "description": "[ ] Paste Taobao or Tmall (淘宝 天猫) product links or ids and get complete rows: every variant's price and stock, the yuan price, seller credit and scores, reviews, English titles. Any link shape, agent links too. No account, no proxy. Export JSON, CSV or Excel",
+   "totalUsers": 8,
+   "monthlyUsers": 4,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/sleepmodesystems/taobao-product-details-scraper?fpr=youssef",
+   "group": "chinese-marketplaces"
+  },
+  {
    "id": "zinin/google-flights-scraper",
    "username": "zinin",
    "name": "google-flights-scraper",
@@ -8893,6 +8445,20 @@
    "reviews": 0,
    "url": "https://apify.com/123webdata/lidl-us-scraper?fpr=youssef",
    "group": "dach"
+  },
+  {
+   "id": "reliable-feeds/beatport-charts-scraper",
+   "username": "reliable-feeds",
+   "name": "beatport-charts-scraper",
+   "title": "Beatport Charts & Tracks Scraper",
+   "developer": "Reliable Feeds",
+   "description": "Scrape Beatport Top 100, genre Top 100 and Hype 100 charts, plus label, artist and genre track lists. Get BPM, key, Camelot, ISRC, label, catalogue number, release date and price for every track",
+   "totalUsers": 5,
+   "monthlyUsers": 4,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/reliable-feeds/beatport-charts-scraper?fpr=youssef",
+   "group": "other-ecommerce"
   },
   {
    "id": "datascrapers/zalando-scraper",
@@ -9119,20 +8685,6 @@
    "group": "dach"
   },
   {
-   "id": "brilliant_gum/google-flights-scraper",
-   "username": "brilliant_gum",
-   "name": "google-flights-scraper",
-   "title": "Google Flights Scraper - Prices, Airlines & Schedules",
-   "developer": "Yuliia Kulakova",
-   "description": "99%+ reliable Google Flights scraper. Extract flight numbers, prices, schedules, aircraft types with advanced filtering. One-way & round-trip support. Protocol Buffers encoding. Perfect for travel apps, price monitoring, market research",
-   "totalUsers": 122,
-   "monthlyUsers": 3,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/brilliant_gum/google-flights-scraper?fpr=youssef",
-   "group": "price-comparison"
-  },
-  {
    "id": "azzouzana/mobile-de-scraper",
    "username": "azzouzana",
    "name": "mobile-de-scraper",
@@ -9203,20 +8755,6 @@
    "group": "reviews"
   },
   {
-   "id": "automation-lab/jd-scraper",
-   "username": "automation-lab",
-   "name": "jd-scraper",
-   "title": "JD.com Scraper",
-   "developer": "Automation Lab",
-   "description": "Scrape JD.com (JD Global) product listings by keyword, category, or product URL. Extract title, images, product metadata, and price/review/seller fields when JD exposes them. Export to JSON, CSV, or Excel",
-   "totalUsers": 78,
-   "monthlyUsers": 3,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/automation-lab/jd-scraper?fpr=youssef",
-   "group": "global-marketplaces"
-  },
-  {
    "id": "saswave/catawiki-scraper",
    "username": "saswave",
    "name": "catawiki-scraper",
@@ -9271,20 +8809,6 @@
    "reviews": 3,
    "url": "https://apify.com/wilico/amazon-price-scraper?fpr=youssef",
    "group": "amazon"
-  },
-  {
-   "id": "saswave/mercadolibre-sellers-monitoring",
-   "username": "saswave",
-   "name": "mercadolibre-sellers-monitoring",
-   "title": "Mercadolibre Seller Competition Monitoring",
-   "developer": "SASWAVE",
-   "description": "Monitor competitors, prices, sellers, and marketplace positions for any MercadoLibre product (all country domains supported). Extract seller level data from product offer listings to help you track competition and buy box positioning in real time",
-   "totalUsers": 65,
-   "monthlyUsers": 3,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/saswave/mercadolibre-sellers-monitoring?fpr=youssef",
-   "group": "global-marketplaces"
   },
   {
    "id": "codingfrontend/flipkart-product-scraper-pro",
@@ -9399,34 +8923,6 @@
    "group": "chinese-marketplaces"
   },
   {
-   "id": "abotapi/tokopedia-scraper",
-   "username": "abotapi",
-   "name": "tokopedia-scraper",
-   "title": "Tokopedia Scraper - Products, Prices, Sellers & Variants",
-   "developer": "Abot API",
-   "description": "Extract product data from Tokopedia, Indonesia’s largest marketplace. Search by keyword with sorting and filters, or use product/result URLs. Returns price, discount, rating, sold count, seller, category, images, and optional details like description, videos, variants, and wholesale tiers",
-   "totalUsers": 50,
-   "monthlyUsers": 3,
-   "rating": 4,
-   "reviews": 1,
-   "url": "https://apify.com/abotapi/tokopedia-scraper?fpr=youssef",
-   "group": "global-marketplaces"
-  },
-  {
-   "id": "silentflow/vinted-scraper-ppr",
-   "username": "silentflow",
-   "name": "vinted-scraper-ppr",
-   "title": "Vinted Marketplace Scraper",
-   "developer": "SilentFlow",
-   "description": "Vinted scraper for second-hand fashion listings: extract title, price, brand, size, condition, color, photos, favorites and seller rating from any Vinted search. Search by keywords or a Vinted URL across Europe. 50 listings in 6 seconds, 20 fields each. Built for resellers and price research",
-   "totalUsers": 48,
-   "monthlyUsers": 3,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/silentflow/vinted-scraper-ppr?fpr=youssef",
-   "group": "global-marketplaces"
-  },
-  {
    "id": "buseta/ulta-advanced-scraper",
    "username": "buseta",
    "name": "ulta-advanced-scraper",
@@ -9441,20 +8937,6 @@
    "group": "us-retailers"
   },
   {
-   "id": "saswave/alibaba-product-scraper",
-   "username": "saswave",
-   "name": "alibaba-product-scraper",
-   "title": "Alibaba Product Scraper",
-   "developer": "SASWAVE",
-   "description": "Alibaba scraper, collect product listings from a search url. Extract item informations like title, image, price, reviews, ratings and more",
-   "totalUsers": 45,
-   "monthlyUsers": 3,
-   "rating": 2.4,
-   "reviews": 2,
-   "url": "https://apify.com/saswave/alibaba-product-scraper?fpr=youssef",
-   "group": "chinese-marketplaces"
-  },
-  {
    "id": "ittechinnovators/instagram-purchase-intent-lead-finder",
    "username": "ittechinnovators",
    "name": "instagram-purchase-intent-lead-finder",
@@ -9467,20 +8949,6 @@
    "reviews": 1,
    "url": "https://apify.com/ittechinnovators/instagram-purchase-intent-lead-finder?fpr=youssef",
    "group": "other-ecommerce"
-  },
-  {
-   "id": "shahidirfan/Farfetch-Pricing-Scraper",
-   "username": "shahidirfan",
-   "name": "Farfetch-Pricing-Scraper",
-   "title": "Farfetch Pricing Scraper",
-   "developer": "Shahid Irfan",
-   "description": "Unlock real-time luxury fashion insights! Instantly scrape prices, product details, and availability from Farfetch. Perfect for competitor analysis, price monitoring, and trend forecasting. Supercharge your e-commerce strategy with accurate global market data",
-   "totalUsers": 31,
-   "monthlyUsers": 3,
-   "rating": 5,
-   "reviews": 2,
-   "url": "https://apify.com/shahidirfan/Farfetch-Pricing-Scraper?fpr=youssef",
-   "group": "global-marketplaces"
   },
   {
    "id": "abotapi/kaufland-de-scraper",
@@ -9536,34 +9004,6 @@
    "rating": 5,
    "reviews": 3,
    "url": "https://apify.com/gauzy_penguin/uniqlo-scraper?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
-   "id": "ahmed_jasarevic/linktree-advanced-lead-scraper",
-   "username": "ahmed_jasarevic",
-   "name": "linktree-advanced-lead-scraper",
-   "title": "Linktree Lead Scraper [] | Creator Profiles | Emails",
-   "developer": "Ahmed Jasarevic",
-   "description": "Collect Linktree creator profiles by category with public emails, social links, regular links, bios and verification status for outreach and research",
-   "totalUsers": 26,
-   "monthlyUsers": 3,
-   "rating": 5,
-   "reviews": 5,
-   "url": "https://apify.com/ahmed_jasarevic/linktree-advanced-lead-scraper?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
-   "id": "shahidirfan/Autoscout24-Scraper",
-   "username": "shahidirfan",
-   "name": "Autoscout24-Scraper",
-   "title": "AutoScout24 Scraper",
-   "developer": "Shahid Irfan",
-   "description": "Extract vehicle data from AutoScout24, Europe's largest car marketplace. Gather detailed listings for used and new cars, including pricing, specs, and dealer info. Residential proxies are strongly recommended for optimal performance and to avoid blocks during extraction",
-   "totalUsers": 25,
-   "monthlyUsers": 3,
-   "rating": 5,
-   "reviews": 2,
-   "url": "https://apify.com/shahidirfan/Autoscout24-Scraper?fpr=youssef",
    "group": "other-ecommerce"
   },
   {
@@ -9721,6 +9161,20 @@
    "group": "chinese-marketplaces"
   },
   {
+   "id": "lentic_clockss/craigslist-housing-scraper",
+   "username": "lentic_clockss",
+   "name": "craigslist-housing-scraper",
+   "title": "Craigslist Scraper - Housing, Jobs and Cars",
+   "developer": "kane liu",
+   "description": "Collect public Craigslist housing, jobs, cars, and other classifieds across US and international areas. Get prices, photos, listing details, and available contacts. Pay per delivered listing row plus a start fee",
+   "totalUsers": 14,
+   "monthlyUsers": 3,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/lentic_clockss/craigslist-housing-scraper?fpr=youssef",
+   "group": "global-marketplaces"
+  },
+  {
    "id": "sian.agency/thomann-product-scraper",
    "username": "sian.agency",
    "name": "thomann-product-scraper",
@@ -9747,20 +9201,6 @@
    "reviews": 0,
    "url": "https://apify.com/saswave/chairish-scraper?fpr=youssef",
    "group": "other-ecommerce"
-  },
-  {
-   "id": "scrapestorm/fragrantica-search-scraper---cheap",
-   "username": "scrapestorm",
-   "name": "fragrantica-search-scraper---cheap",
-   "title": "Fragrantica Search Scraper - Cheap",
-   "developer": "Storm_Scraper",
-   "description": "Looking to collect perfumes from Fragrantica? With the Fragrantica Search Scraper gather detailed perfume results from specific Fragrantica URLs including perfume name, brand, gender, release year, review count, product URL & more Perfect for perfume trend analysis, and brand monitoring",
-   "totalUsers": 13,
-   "monthlyUsers": 3,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/scrapestorm/fragrantica-search-scraper---cheap?fpr=youssef",
-   "group": "reviews"
   },
   {
    "id": "saswave/woot-by-amazon-scraper",
@@ -9861,20 +9301,6 @@
    "group": "dach"
   },
   {
-   "id": "piotrv1001/uber-eats-menu-scraper",
-   "username": "piotrv1001",
-   "name": "uber-eats-menu-scraper",
-   "title": "Uber Eats Menu Scraper",
-   "developer": "FalconScrape",
-   "description": "The Uber Eats Listings Scraper extracts restaurant and store data from Uber Eats - full menus with prices and item IDs, ratings, reviews, addresses, geo coordinates, phone numbers, opening hours, and delivery methods. Supports sitemap, category, and direct-URL discovery across 25+ Uber Eats markets",
-   "totalUsers": 10,
-   "monthlyUsers": 3,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/piotrv1001/uber-eats-menu-scraper?fpr=youssef",
-   "group": "reviews"
-  },
-  {
    "id": "datascrapers/lidl-scraper",
    "username": "datascrapers",
    "name": "lidl-scraper",
@@ -9901,6 +9327,20 @@
    "reviews": 0,
    "url": "https://apify.com/scrape-lads/au-grocery-scraper?fpr=youssef",
    "group": "dach"
+  },
+  {
+   "id": "steadyfetch/tiktok-shop-video-scripts-scraper",
+   "username": "steadyfetch",
+   "name": "tiktok-shop-video-scripts-scraper",
+   "title": "TikTok Shop Videos Scraper - Affiliate Video Transcripts",
+   "developer": "Steadyfetch Team",
+   "description": "TikTok Shop affiliate videos with what they say: paste a product link and get the videos selling it - creator, views, likes, caption, hashtags, posted date - each with a transcript from TikTok's own captions or speech-to-text, plus the product's price, units sold and shop. US shop",
+   "totalUsers": 9,
+   "monthlyUsers": 3,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/steadyfetch/tiktok-shop-video-scripts-scraper?fpr=youssef",
+   "group": "chinese-marketplaces"
   },
   {
    "id": "jmlp/trustpilot-reviews-scraper",
@@ -9973,20 +9413,6 @@
    "group": "amazon"
   },
   {
-   "id": "research_master/makuake-project-scraper",
-   "username": "research_master",
-   "name": "makuake-project-scraper",
-   "title": "Makuake Project Scraper",
-   "developer": "Research Master",
-   "description": "Collect public Makuake projects from Discover, ranking, category, tag, or project URLs with funding metrics, creator/category metadata, deduplication, and collection audits",
-   "totalUsers": 6,
-   "monthlyUsers": 3,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/research_master/makuake-project-scraper?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
    "id": "lentic_clockss/target-scraper",
    "username": "lentic_clockss",
    "name": "target-scraper",
@@ -10013,20 +9439,6 @@
    "reviews": 0,
    "url": "https://apify.com/tenfoldfleet/shopify-products-scraper?fpr=youssef",
    "group": "shopify-stores"
-  },
-  {
-   "id": "kaleidoscopelabs/facebook-ads-library-checker",
-   "username": "kaleidoscopelabs",
-   "name": "facebook-ads-library-checker",
-   "title": "Meta Ad Library & Facebook Ad Library Checker",
-   "developer": "Kaleidoscope Labs",
-   "description": "Facebook Ad Library and Meta Ad Library checker: is a Page or brand running ads, and how many? Get its Facebook ad count, newest ad's start day and up to 1,000 latest Facebook Page ads. Monitor Pages for new ads. Enter Page links, IDs or names; weak matches are flagged. No-ad Pages are answered too",
-   "totalUsers": 5,
-   "monthlyUsers": 3,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/kaleidoscopelabs/facebook-ads-library-checker?fpr=youssef",
-   "group": "ads-and-trends"
   },
   {
    "id": "123webdata/kleinanzeigen-scraper",
@@ -10083,20 +9495,6 @@
    "reviews": 0,
    "url": "https://apify.com/om_kh/11st-korea-product-scraper?fpr=youssef",
    "group": "us-retailers"
-  },
-  {
-   "id": "pintostudio/burberry-search-product",
-   "username": "pintostudio",
-   "name": "burberry-search-product",
-   "title": "Burberry Search Product",
-   "developer": "Pinto Studio",
-   "description": "The Burberry Product Search Apify Actor provides an efficient way to explore and collect data on Burberry products, including item names, descriptions, pricing, and availability. Built for reliability and accuracy, saving you time and providing organized, actionable insights",
-   "totalUsers": 4,
-   "monthlyUsers": 3,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/pintostudio/burberry-search-product?fpr=youssef",
-   "group": "other-ecommerce"
   },
   {
    "id": "tubetext/idealo-price-scraper",
@@ -10379,20 +9777,6 @@
    "group": "global-marketplaces"
   },
   {
-   "id": "silentflow/storeleads-scraper-ppe",
-   "username": "silentflow",
-   "name": "storeleads-scraper-ppe",
-   "title": "Store Leads Scraper | Shopify Data",
-   "developer": "SilentFlow",
-   "description": "Look up Shopify and WooCommerce stores by domain with no Store Leads account: store name, location, currency, product and collection counts, prices, contact email and social profiles. Add your Store Leads login to export full searches with traffic, sales, employees and technologies per store",
-   "totalUsers": 100,
-   "monthlyUsers": 2,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/silentflow/storeleads-scraper-ppe?fpr=youssef",
-   "group": "shopify-stores"
-  },
-  {
    "id": "piotrv1001/woocommerce-product-scraper",
    "username": "piotrv1001",
    "name": "woocommerce-product-scraper",
@@ -10421,20 +9805,6 @@
    "group": "us-retailers"
   },
   {
-   "id": "caprolok/aliexpress-reviews-scraper",
-   "username": "caprolok",
-   "name": "aliexpress-reviews-scraper",
-   "title": "Aliexpress Reviews Scraper",
-   "developer": "Caprolok",
-   "description": "AliExpress Reviews Scraper extracts detailed reviews from product pages. Input product IDs and links to retrieve ratings, feedback, and more. Ideal for market analysis and consumer insights. Supports batch processing and customizable data extraction",
-   "totalUsers": 92,
-   "monthlyUsers": 2,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/caprolok/aliexpress-reviews-scraper?fpr=youssef",
-   "group": "chinese-marketplaces"
-  },
-  {
    "id": "eloquent_mountain/trustpilot-review-scraper-and-translator",
    "username": "eloquent_mountain",
    "name": "trustpilot-review-scraper-and-translator",
@@ -10447,20 +9817,6 @@
    "reviews": 0,
    "url": "https://apify.com/eloquent_mountain/trustpilot-review-scraper-and-translator?fpr=youssef",
    "group": "reviews"
-  },
-  {
-   "id": "apiguruu/nike-product-scraper",
-   "username": "apiguruu",
-   "name": "nike-product-scraper",
-   "title": "Nike Product Scraper",
-   "developer": "apiguru",
-   "description": "use this actor to scrape nike products pages for shoes and clothes",
-   "totalUsers": 85,
-   "monthlyUsers": 2,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/apiguruu/nike-product-scraper?fpr=youssef",
-   "group": "other-ecommerce"
   },
   {
    "id": "yasmany.casanova/mercadolivre-store-scraper",
@@ -10631,20 +9987,6 @@
    "group": "ads-and-trends"
   },
   {
-   "id": "saswave/aliexpress-scraper",
-   "username": "saswave",
-   "name": "aliexpress-scraper",
-   "title": "Aliexpress Scraper",
-   "developer": "SASWAVE",
-   "description": "Aliexpress scraper, collect product listings from a search url. Extract item informations like title, image, price, reviews, ratings and more",
-   "totalUsers": 57,
-   "monthlyUsers": 2,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/saswave/aliexpress-scraper?fpr=youssef",
-   "group": "chinese-marketplaces"
-  },
-  {
    "id": "laisi/amazon-product-scraper",
    "username": "laisi",
    "name": "amazon-product-scraper",
@@ -10699,20 +10041,6 @@
    "reviews": 4,
    "url": "https://apify.com/shahidirfan/stubhub-event-scraper?fpr=youssef",
    "group": "ads-and-trends"
-  },
-  {
-   "id": "xmiso_scrapers/amazon-sellers-leads-scraper-from-asin-list",
-   "username": "xmiso_scrapers",
-   "name": "amazon-sellers-leads-scraper-from-asin-list",
-   "title": "Amazon Sellers Leads Scraper From Asin List",
-   "developer": "Miso",
-   "description": "Another version of Amazon seller email leads scraper in case you already have your own asin list. Emails are available only in European Amazon marketplaces. Currently supporting FR and DE marketplaces",
-   "totalUsers": 47,
-   "monthlyUsers": 2,
-   "rating": 4.4,
-   "reviews": 9,
-   "url": "https://apify.com/xmiso_scrapers/amazon-sellers-leads-scraper-from-asin-list?fpr=youssef",
-   "group": "amazon"
   },
   {
    "id": "datasaurus/massimodutti",
@@ -10771,34 +10099,6 @@
    "group": "price-comparison"
   },
   {
-   "id": "fatihtahta/autotrader-uk-scraper",
-   "username": "fatihtahta",
-   "name": "autotrader-uk-scraper",
-   "title": "AutoTrader UK Scraper With Contacts",
-   "developer": "Fatih Tahta",
-   "description": "Extract AutoTrader.co.uk vehicle listings at scale with rich specs, seller contacts, pricing signals, history checks, finance data, media, and availability. Built for enterprise-grade UK automotive intelligence, lead enrichment, inventory monitoring, and automated analytics pipelines",
-   "totalUsers": 38,
-   "monthlyUsers": 2,
-   "rating": 5.0,
-   "reviews": 1,
-   "url": "https://apify.com/fatihtahta/autotrader-uk-scraper?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
-   "id": "yasmany.casanova/rappi-restaurant-scraper",
-   "username": "yasmany.casanova",
-   "name": "rappi-restaurant-scraper",
-   "title": "Rappi Restaurant Scraper",
-   "developer": "Yasmany Grijalba Casanova",
-   "description": "Extract restaurant data from Rappi - Latin America's largest food delivery platform. Get menus with prices, store details, ratings, and list all restaurants in any location. Supports Brazil, Colombia, Argentina, Chile, Peru, and Uruguay",
-   "totalUsers": 38,
-   "monthlyUsers": 2,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/yasmany.casanova/rappi-restaurant-scraper?fpr=youssef",
-   "group": "reviews"
-  },
-  {
    "id": "powerai/realtor-properties-search-scraper",
    "username": "powerai",
    "name": "realtor-properties-search-scraper",
@@ -10825,20 +10125,6 @@
    "reviews": 0,
    "url": "https://apify.com/jungle_synthesizer/beckett-bgs-population-price-guide-scraper?fpr=youssef",
    "group": "other-ecommerce"
-  },
-  {
-   "id": "akash9078/amazon-product-scraper",
-   "username": "akash9078",
-   "name": "amazon-product-scraper",
-   "title": "Amazon Product Scraper",
-   "developer": "Akash Kumar Naik",
-   "description": "Amazon scraper that extracts comprehensive product data, including pricing, ratings, images, reviews, and seller offers. Perfect for price monitoring, market research, and competitive analysis",
-   "totalUsers": 33,
-   "monthlyUsers": 2,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/akash9078/amazon-product-scraper?fpr=youssef",
-   "group": "amazon"
   },
   {
    "id": "epctex/dm-scraper",
@@ -10995,20 +10281,6 @@
    "group": "other-ecommerce"
   },
   {
-   "id": "scrapelabmax/estate-sale-scraper",
-   "username": "scrapelabmax",
-   "name": "estate-sale-scraper",
-   "title": "Estate Sale Scraper with Full Photo Galleries (EstateSales.net)",
-   "developer": "Scrapelab Max",
-   "description": "Scrape estate, garage, and yard sales from EstateSales.net - with every listing's FULL photo gallery (images[]), not just one thumbnail. Nationwide, per-state, or per-ZIP. Plain-HTTP Cheerio crawling keeps cost ~10x below browser-based scrapers",
-   "totalUsers": 19,
-   "monthlyUsers": 2,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/scrapelabmax/estate-sale-scraper?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
    "id": "dromb/lidl-uk-actor",
    "username": "dromb",
    "name": "lidl-uk-actor",
@@ -11021,20 +10293,6 @@
    "reviews": 0,
    "url": "https://apify.com/dromb/lidl-uk-actor?fpr=youssef",
    "group": "dach"
-  },
-  {
-   "id": "gauzy_penguin/farfetch-scraper",
-   "username": "gauzy_penguin",
-   "name": "farfetch-scraper",
-   "title": "Farfetch Scraper",
-   "developer": "scrape anything",
-   "description": "Complete scraper for Farfetch.com with advanced filtering options. Extract products with all data including prices, images, sizes, colors, brands, discounts, and more. Supports all categories (men, women, kids) with flexible filtering by price, brand, size, color, and discount percentage",
-   "totalUsers": 17,
-   "monthlyUsers": 2,
-   "rating": 5,
-   "reviews": 3,
-   "url": "https://apify.com/gauzy_penguin/farfetch-scraper?fpr=youssef",
-   "group": "global-marketplaces"
   },
   {
    "id": "lentic_clockss/coupang-scraper",
@@ -11233,18 +10491,32 @@
    "group": "other-ecommerce"
   },
   {
-   "id": "agentx/all-shopping-scraper",
-   "username": "agentx",
-   "name": "all-shopping-scraper",
-   "title": "All Shopping Scraper: Walmart, AliExpress, Target",
-   "developer": "AgentX",
-   "description": "Product scraper for 23 shopping sites in 33 countries: eBay, Flipkart, Bol.com, Hepsiburada, Rakuten, Myntra, John Lewis, Nykaa, AJIO, OTTO, Argos, ASOS and Blibli. Search by keyword and country for product title, price, search rank and product URL, plus stock, seller and rating when listed",
+   "id": "lentic_clockss/etsy-scraper",
+   "username": "lentic_clockss",
+   "name": "etsy-scraper",
+   "title": "Etsy Scraper - Listings, Shops, Prices and Reviews",
+   "developer": "kane liu",
+   "description": "Extract Etsy listings, shops, categories, and public review samples across ship-to markets. Get prices, ratings, images, and shop details. Pay per delivered row plus a start fee",
    "totalUsers": 9,
    "monthlyUsers": 2,
    "rating": null,
    "reviews": 0,
-   "url": "https://apify.com/agentx/all-shopping-scraper?fpr=youssef",
-   "group": "chinese-marketplaces"
+   "url": "https://apify.com/lentic_clockss/etsy-scraper?fpr=youssef",
+   "group": "ebay-etsy"
+  },
+  {
+   "id": "euroscrape/vinted-scraper",
+   "username": "euroscrape",
+   "name": "vinted-scraper",
+   "title": "Vinted Bot, Vinted Sold Prices & Vinted Alerts API",
+   "developer": "EuroScrape",
+   "description": "Vinted tracker, Vinted price tracker: Vinted items, Vinted market data, Vinted price check. Vinted sellers, Vinted arbitrage, Vinted deals. Vinted monitor: Vinted new items, price-drop alerts, Vinted items monitoring. Vinted search API, Vinted search JSON, Vinted items JSON, Vinted CSV export",
+   "totalUsers": 9,
+   "monthlyUsers": 2,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/euroscrape/vinted-scraper?fpr=youssef",
+   "group": "global-marketplaces"
   },
   {
    "id": "herus13/shopee-shop-scraper",
@@ -11345,6 +10617,48 @@
    "group": "reviews"
   },
   {
+   "id": "khadinakbar/coupang-scraper",
+   "username": "khadinakbar",
+   "name": "coupang-scraper",
+   "title": "Coupang Product Scraper",
+   "developer": "Khadin Akbar",
+   "description": "Get Coupang products from category pages, deals pages, product links or keywords: KRW price, discount, rating, reviews, Rocket flags, brand, images. Filters for price, rating and Rocket. Pay per product plus platform usage",
+   "totalUsers": 6,
+   "monthlyUsers": 2,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/khadinakbar/coupang-scraper?fpr=youssef",
+   "group": "global-marketplaces"
+  },
+  {
+   "id": "steadyfetch/amazon-search-scraper",
+   "username": "steadyfetch",
+   "name": "amazon-search-scraper",
+   "title": "Amazon Search Results Scraper - Full Product Row, Flat Fee",
+   "developer": "Steadyfetch Team",
+   "description": "Amazon search: type a keyword and get full product detail for every result - price, buy box, stock, rating, reviews, variants, bestseller ranks, images and specs., one flat fee, no add-on events. Blocked or empty searches are never charged",
+   "totalUsers": 6,
+   "monthlyUsers": 2,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/steadyfetch/amazon-search-scraper?fpr=youssef",
+   "group": "amazon"
+  },
+  {
+   "id": "automatic/taobao-1688-agent-search",
+   "username": "automatic",
+   "name": "taobao-1688-agent-search",
+   "title": "Taobao & 1688 Scraper: Product Prices, Sales & Agent Links",
+   "developer": "Philip Kirkbride",
+   "description": "Search Taobao and 1688 in English or Chinese: CNY prices, images, monthly sales and shopping-agent links per product, with bilingual titles and price filters. 在淘宝和1688搜索商品，比较人民币标价、月销量和商品图片。",
+   "totalUsers": 6,
+   "monthlyUsers": 2,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/automatic/taobao-1688-agent-search?fpr=youssef",
+   "group": "chinese-marketplaces"
+  },
+  {
    "id": "axlymxp/idealo-product-offer-scraper",
    "username": "axlymxp",
    "name": "idealo-product-offer-scraper",
@@ -11440,34 +10754,6 @@
    "rating": 5,
    "reviews": 1,
    "url": "https://apify.com/muhammetakkurtt/careem-food-scraper?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
-   "id": "agentx/amazon-storefront-scraper",
-   "username": "agentx",
-   "name": "amazon-storefront-scraper",
-   "title": "Amazon Storefront Scraper: Brand Store, ASINs",
-   "developer": "AgentX",
-   "description": "Amazon Brand Store scraper for 10 Amazon marketplaces, with no advertiser account needed. Paste one Store URL for store name, brand ID, marketplace, page tree and every product ASIN and URL on the Store, plus logo, hero image, videos, product price and rating when Amazon shows them",
-   "totalUsers": 4,
-   "monthlyUsers": 2,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/agentx/amazon-storefront-scraper?fpr=youssef",
-   "group": "amazon"
-  },
-  {
-   "id": "scrapestorm/govdeals-government-auction-scraper---cheap",
-   "username": "scrapestorm",
-   "name": "govdeals-government-auction-scraper---cheap",
-   "title": "GovDeals Government Auction Scraper - Cheap",
-   "developer": "Storm_Scraper",
-   "description": "Easily collect government auction asset listings from GovDeals Provide one or multiple category or filtered URLs & extract auction intelligence such as Asset Title Bid Location ⏰ Closing Date Asset URL & more Perfect for government surplus research & resale opportunity analysis",
-   "totalUsers": 4,
-   "monthlyUsers": 2,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/scrapestorm/govdeals-government-auction-scraper---cheap?fpr=youssef",
    "group": "other-ecommerce"
   },
   {
@@ -11695,6 +10981,20 @@
    "group": "amazon"
   },
   {
+   "id": "alaathr/winning-product-validator",
+   "username": "alaathr",
+   "name": "winning-product-validator",
+   "title": "Winning Product Validator - Google Trends & AliExpress Score",
+   "developer": "Alaa Tahir",
+   "description": "Validate product ideas before you sell them: 5-year Google Trends demand (momentum, year over year, seasonality, rising searches) plus AliExpress sales, prices and competition, with a 0-100 score and the reasons. Pay per product idea",
+   "totalUsers": 3,
+   "monthlyUsers": 2,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/alaathr/winning-product-validator?fpr=youssef",
+   "group": "chinese-marketplaces"
+  },
+  {
    "id": "mrbridge/american-eagle-scraper",
    "username": "mrbridge",
    "name": "american-eagle-scraper",
@@ -11707,6 +11007,34 @@
    "reviews": 0,
    "url": "https://apify.com/mrbridge/american-eagle-scraper?fpr=youssef",
    "group": "other-ecommerce"
+  },
+  {
+   "id": "zaiqltd/amazon-japan-scraper",
+   "username": "zaiqltd",
+   "name": "amazon-japan-scraper",
+   "title": "Amazon Japan Scraper: amazon.co.jp Products, Prices & Reviews",
+   "developer": "Zaiq",
+   "description": "amazon.co.jp search results and product pages as a shopper in Japan sees them: price in JPY, list price, rating, ratings count, bought in past month, badges, sponsored flag, brand, seller, bullet points, images, category, best sellers rank and the reviews shown. Search terms, links or ASINs",
+   "totalUsers": 3,
+   "monthlyUsers": 2,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/zaiqltd/amazon-japan-scraper?fpr=youssef",
+   "group": "amazon"
+  },
+  {
+   "id": "zaiqltd/amazon-spain-scraper",
+   "username": "zaiqltd",
+   "name": "amazon-spain-scraper",
+   "title": "Amazon Spain Scraper: amazon.es Products, Prices & Reviews",
+   "developer": "Zaiq",
+   "description": "amazon.es search results and product pages as a shopper in Spain sees them: price in EUR, list price, rating, ratings count, bought in past month, badges, sponsored flag, brand, seller, bullet points, images, category, best sellers rank and the reviews shown. Search terms, links or ASINs",
+   "totalUsers": 3,
+   "monthlyUsers": 2,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/zaiqltd/amazon-spain-scraper?fpr=youssef",
+   "group": "amazon"
   },
   {
    "id": "trev0n/kleinanzeigen-scraper",
@@ -12157,18 +11485,18 @@
    "group": "reviews"
   },
   {
-   "id": "h1018y/anvil-etsy-all",
-   "username": "h1018y",
-   "name": "anvil-etsy-all",
-   "title": "Etsy Scraper: Shop New Listings & Price Change Monitor",
-   "developer": "Veriloc",
-   "description": "Scrapes Etsy shops you name and returns their newest listings with price, photos and description. This Etsy Scraper keeps a price history per listing and marks new, price-changed and sold-out or removed listings since your last run",
+   "id": "badr_xba/amazon-product-scraper",
+   "username": "badr_xba",
+   "name": "amazon-product-scraper",
+   "title": "Amazon Product Scraper - Prices, Ratings, Offers & Sellers",
+   "developer": "Badr Bouargan",
+   "description": "Amazon product scraper for 23 countries: paste URLs, ASINs or keywords and get price, list price, stock, rating, best-seller rank, variants and images, plus other sellers' offers and seller details if you want them. Pay per product; failed inputs never billed",
    "totalUsers": 2,
    "monthlyUsers": 2,
    "rating": null,
    "reviews": 0,
-   "url": "https://apify.com/h1018y/anvil-etsy-all?fpr=youssef",
-   "group": "ebay-etsy"
+   "url": "https://apify.com/badr_xba/amazon-product-scraper?fpr=youssef",
+   "group": "amazon"
   },
   {
    "id": "automation_craft/zalando-ads-library-scraper",
@@ -12451,20 +11779,6 @@
    "group": "price-comparison"
   },
   {
-   "id": "scrapestorm/avito-offers-scraper-pay-per-results",
-   "username": "scrapestorm",
-   "name": "avito-offers-scraper-pay-per-results",
-   "title": "Avito Offers Scraper (Pay per results)",
-   "developer": "Storm_Scraper",
-   "description": "This Apify actor extracts products from Avito! Customize your search by keyword, category, city (Morocco), and more. Extracted data is saved to a dataset. Enjoy fast and efficient web scraping. Easily handle pagination and filter results for accurate data you need!",
-   "totalUsers": 93,
-   "monthlyUsers": 1,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/scrapestorm/avito-offers-scraper-pay-per-results?fpr=youssef",
-   "group": "global-marketplaces"
-  },
-  {
    "id": "igview-owner/facebook-marketplace-data-scraper",
    "username": "igview-owner",
    "name": "facebook-marketplace-data-scraper",
@@ -12560,20 +11874,6 @@
    "rating": null,
    "reviews": 0,
    "url": "https://apify.com/plowdata/europages-company-scraper-ppr?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
-   "id": "devcake/whatnot-data-scraper",
-   "username": "devcake",
-   "name": "whatnot-data-scraper",
-   "title": "Whatnot Data Scraper",
-   "developer": "devcake",
-   "description": "Extract product listings and discover live auction streams from Whatnot.com",
-   "totalUsers": 69,
-   "monthlyUsers": 1,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/devcake/whatnot-data-scraper?fpr=youssef",
    "group": "other-ecommerce"
   },
   {
@@ -12703,20 +12003,6 @@
    "group": "reviews"
   },
   {
-   "id": "lexis-solutions/carousell-scraper",
-   "username": "lexis-solutions",
-   "name": "carousell-scraper",
-   "title": "Carousell Scraper",
-   "developer": "Lexis Solutions",
-   "description": "Scrape listings from Carousell Singapore - including electronics, fashion, vehicles, property, and more. Extract titles, prices, descriptions, seller ratings, and images. Ideal for market analysis, price tracking, and classifieds aggregation. Fast, structured, and customizable extraction",
-   "totalUsers": 57,
-   "monthlyUsers": 1,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/lexis-solutions/carousell-scraper?fpr=youssef",
-   "group": "global-marketplaces"
-  },
-  {
    "id": "thescrapelab/ultimate-car-listings-scraper-100-sites",
    "username": "thescrapelab",
    "name": "ultimate-car-listings-scraper-100-sites",
@@ -12742,20 +12028,6 @@
    "rating": 5,
    "reviews": 7,
    "url": "https://apify.com/epctex/forever21-scraper?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
-   "id": "piotrv1001/encar-listings-scraper",
-   "username": "piotrv1001",
-   "name": "encar-listings-scraper",
-   "title": "Encar Listings Scraper",
-   "developer": "FalconScrape",
-   "description": "The Encar Listings Scraper extracts car listings from Encar.com, South Korea's largest used-car marketplace, capturing make, model, trim, year, mileage, price, fuel type, transmission, dealer, region, and photos - ideal for price analysis, market research, and vehicle sourcing",
-   "totalUsers": 53,
-   "monthlyUsers": 1,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/piotrv1001/encar-listings-scraper?fpr=youssef",
    "group": "other-ecommerce"
   },
   {
@@ -12785,20 +12057,6 @@
    "reviews": 2,
    "url": "https://apify.com/easyapi/costco-product-search-scraper?fpr=youssef",
    "group": "us-retailers"
-  },
-  {
-   "id": "statanow/flashscore-scraper-team-statistic",
-   "username": "statanow",
-   "name": "flashscore-scraper-team-statistic",
-   "title": "Flashscore Scraper Team Statistic",
-   "developer": "statanow",
-   "description": "Use this alternative FlashScore API to scrape last any number matches any Team from FlashScore, including scores, status, league, kick-off time, detailed event history, and other stats. Export match data, run the scraper using the API, manage and schedule runs, or integrate with external tools",
-   "totalUsers": 48,
-   "monthlyUsers": 1,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/statanow/flashscore-scraper-team-statistic?fpr=youssef",
-   "group": "other-ecommerce"
   },
   {
    "id": "lexis-solutions/oreillyauto",
@@ -13025,20 +12283,6 @@
    "group": "reviews"
   },
   {
-   "id": "brilliant_gum/booking-pro-full-data-scraper",
-   "username": "brilliant_gum",
-   "name": "booking-pro-full-data-scraper",
-   "title": "Booking.com Scraper - Hotels, Prices & Reviews",
-   "developer": "Yuliia Kulakova",
-   "description": "Extract 27 data fields from Booking.com: prices, reviews, amenities, photos, rooms, GPS coordinates and more. Includes up to 25 reviews per hotel. Tested with 1000+ hotels per city",
-   "totalUsers": 34,
-   "monthlyUsers": 1,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/brilliant_gum/booking-pro-full-data-scraper?fpr=youssef",
-   "group": "reviews"
-  },
-  {
    "id": "santamaria-automations/kleinanzeigen-de-scraper",
    "username": "santamaria-automations",
    "name": "kleinanzeigen-de-scraper",
@@ -13065,20 +12309,6 @@
    "reviews": 1,
    "url": "https://apify.com/parseforge/open-library-scraper?fpr=youssef",
    "group": "other-ecommerce"
-  },
-  {
-   "id": "shahidirfan/Ikea-Product-Scraper",
-   "username": "shahidirfan",
-   "name": "Ikea-Product-Scraper",
-   "title": "Ikea Product Scraper",
-   "developer": "Shahid Irfan",
-   "description": "Extract detailed product data from IKEA instantly! Scrape prices, descriptions, images, SKUs, and categories for seamless e-commerce analysis. Perfect for price monitoring, catalog management, and market research. Unlock comprehensive furniture retail insights today",
-   "totalUsers": 31,
-   "monthlyUsers": 1,
-   "rating": 5,
-   "reviews": 3,
-   "url": "https://apify.com/shahidirfan/Ikea-Product-Scraper?fpr=youssef",
-   "group": "global-marketplaces"
   },
   {
    "id": "parseforge/yatco-scraper",
@@ -13135,20 +12365,6 @@
    "reviews": 0,
    "url": "https://apify.com/piotrv1001/vinted-listings-scraper?fpr=youssef",
    "group": "global-marketplaces"
-  },
-  {
-   "id": "hello.datawizards/aliexpress-bulk-product-image-extractor-pro",
-   "username": "hello.datawizards",
-   "name": "aliexpress-bulk-product-image-extractor-pro",
-   "title": "Aliexpress Bulk Product Image Extractor Pro",
-   "developer": "datawizards",
-   "description": "Aliexpress Bulk Product Image Extractor Pro: Scrape AliExpress product listings image effortlessly with keyword searches. Get structured JSON data with images. Ideal for e-commerce research and market trends. Use Apify Proxy to avoid blocks",
-   "totalUsers": 28,
-   "monthlyUsers": 1,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/hello.datawizards/aliexpress-bulk-product-image-extractor-pro?fpr=youssef",
-   "group": "chinese-marketplaces"
   },
   {
    "id": "easyapi/grubhub-restaurant-reviews-scraper",
@@ -13219,20 +12435,6 @@
    "reviews": 0,
    "url": "https://apify.com/lukass/immobilleScout24-ch?fpr=youssef",
    "group": "other-ecommerce"
-  },
-  {
-   "id": "parseforge/apple-app-store-iphone-scraper",
-   "username": "parseforge",
-   "name": "apple-app-store-iphone-scraper",
-   "title": "Apple App Store iPhone Scraper",
-   "developer": "ParseForge",
-   "description": "Scrapes iPhone and iPad apps from the Apple App Store by search term, app ID, or top chart collection. Returns each app as a flat row with name, developer, price, rating, and category",
-   "totalUsers": 25,
-   "monthlyUsers": 1,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/parseforge/apple-app-store-iphone-scraper?fpr=youssef",
-   "group": "reviews"
   },
   {
    "id": "datasaurus/pullandbear",
@@ -13415,34 +12617,6 @@
    "reviews": 0,
    "url": "https://apify.com/contactminerlabs/craigslist-email-scraper---advanced-cheapest-reliable?fpr=youssef",
    "group": "global-marketplaces"
-  },
-  {
-   "id": "jungle_synthesizer/poland-olx-classifieds-scraper",
-   "username": "jungle_synthesizer",
-   "name": "poland-olx-classifieds-scraper",
-   "title": "Poland OLX Classifieds Scraper",
-   "developer": "BowTiedRaccoon",
-   "description": "Scrape listings from OLX.pl - Poland's largest classifieds marketplace. Extract price, location, seller details, and category for any category or keyword search. Covers all OLX categories: goods, automotive, real estate, jobs, and services",
-   "totalUsers": 21,
-   "monthlyUsers": 1,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/jungle_synthesizer/poland-olx-classifieds-scraper?fpr=youssef",
-   "group": "global-marketplaces"
-  },
-  {
-   "id": "studio-amba/heureka-scraper",
-   "username": "studio-amba",
-   "name": "heureka-scraper",
-   "title": "Heureka Scraper - Czech Price Comparison & Deals",
-   "developer": "Studio Amba",
-   "description": "Scrape product prices and deals from Heureka.cz, the largest price comparison site in Czech Republic. Compare prices across Czech retailers, extract ratings, reviews, and offers. No login or cookies required",
-   "totalUsers": 20,
-   "monthlyUsers": 1,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/studio-amba/heureka-scraper?fpr=youssef",
-   "group": "price-comparison"
   },
   {
    "id": "rl1987/shopify-api-scraper",
@@ -13655,6 +12829,20 @@
    "group": "ebay-etsy"
   },
   {
+   "id": "getdataforme/ulta-productdetails-spider",
+   "username": "getdataforme",
+   "name": "ulta-productdetails-spider",
+   "title": "Ulta Productdetails Spider",
+   "developer": "GetDataForMe",
+   "description": "Unlock comprehensive beauty product insights with the Ulta Productdetails Spider. It efficiently extracts names, brands, descriptions, prices, ratings, ingredients, and more from Ulta's site",
+   "totalUsers": 11,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/getdataforme/ulta-productdetails-spider?fpr=youssef",
+   "group": "us-retailers"
+  },
+  {
    "id": "studio-amba/willhaben-scraper",
    "username": "studio-amba",
    "name": "willhaben-scraper",
@@ -13865,6 +13053,20 @@
    "group": "global-marketplaces"
   },
   {
+   "id": "scrapeworks/target-product-scraper",
+   "username": "scrapeworks",
+   "name": "target-product-scraper",
+   "title": "Target Product Scraper",
+   "developer": "Nicolas van Arkens",
+   "description": "Scrape Target.com products in bulk by URL, TCIN, or keyword. Get title, brand, UPC/barcode, full category, description, specifications, star rating, review count, all images, variants and seller - one clean row per product. No login or API key",
+   "totalUsers": 7,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/scrapeworks/target-product-scraper?fpr=youssef",
+   "group": "us-retailers"
+  },
+  {
    "id": "piotrv1001/kleinanzeigen-listings-scraper",
    "username": "piotrv1001",
    "name": "kleinanzeigen-listings-scraper",
@@ -13963,20 +13165,6 @@
    "group": "price-comparison"
   },
   {
-   "id": "parseforge/mac-app-store-scraper",
-   "username": "parseforge",
-   "name": "mac-app-store-scraper",
-   "title": "Mac App Store Scraper",
-   "developer": "ParseForge",
-   "description": "Scrapes Mac App Store app listings by search, App ID lookup, or top charts. Returns each app as a flat row with name, developer, rating, price, and category",
-   "totalUsers": 6,
-   "monthlyUsers": 1,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/parseforge/mac-app-store-scraper?fpr=youssef",
-   "group": "reviews"
-  },
-  {
    "id": "abotapi/kleinanzeigen-de-scraper",
    "username": "abotapi",
    "name": "kleinanzeigen-de-scraper",
@@ -14047,18 +13235,18 @@
    "group": "chinese-marketplaces"
   },
   {
-   "id": "flarewow/olx-motoryzacja-pl",
-   "username": "flarewow",
-   "name": "olx-motoryzacja-pl",
-   "title": "OLX Car Scraper Poland - Samochody, Motocykle, Części",
-   "developer": "FlareWOW",
-   "description": "Scraper OLX.pl dla motoryzacji: samochody osobowe, motocykle, ciężarowe, dostawcze, części. Multi-brand i multi-model. Pełne filtry (marka, rocznik, przebieg, paliwo, skrzynia, cena, miasto z promieniem). Monitoring nowych okazji dla autokomisów",
+   "id": "om_kh/taobao-tmall-product-scraper",
+   "username": "om_kh",
+   "name": "taobao-tmall-product-scraper",
+   "title": "Taobao 淘宝 & Tmall 天猫 Product Detail Scraper - Real Price",
+   "developer": "Khandji Omar",
+   "description": "Taobao and Tmall product detail scraper: price, every SKU variant with stock, photos and shop, in a cheaper Fast mode or a Full mode with the verified post-coupon price, units sold and specs. Our fee + supplier. All supplier fields included",
    "totalUsers": 5,
    "monthlyUsers": 1,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/flarewow/olx-motoryzacja-pl?fpr=youssef",
-   "group": "global-marketplaces"
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/om_kh/taobao-tmall-product-scraper?fpr=youssef",
+   "group": "chinese-marketplaces"
   },
   {
    "id": "clearpath/kleinanzeigen-autos-scraper",
@@ -14157,6 +13345,20 @@
    "reviews": 0,
    "url": "https://apify.com/truefetch/myntra-price-tracker?fpr=youssef",
    "group": "price-comparison"
+  },
+  {
+   "id": "lentic_clockss/thomasnet-scraper",
+   "username": "lentic_clockss",
+   "name": "thomasnet-scraper",
+   "title": "Thomasnet Scraper | US Industrial Supplier Data",
+   "developer": "kane liu",
+   "description": "Extract US industrial suppliers, public phones, addresses, company profiles, and catalog data from Thomasnet. Search by keyword, category, or company URL and pay per delivered row plus a start fee",
+   "totalUsers": 4,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/lentic_clockss/thomasnet-scraper?fpr=youssef",
+   "group": "other-ecommerce"
   },
   {
    "id": "om_kh/coles-australia-scraper",
@@ -14397,18 +13599,18 @@
    "group": "amazon"
   },
   {
-   "id": "lentic_clockss/mercari-scraper",
-   "username": "lentic_clockss",
-   "name": "mercari-scraper",
-   "title": "Mercari Scraper - Japan Listings, Prices and Sellers",
-   "developer": "kane liu",
-   "description": "Extract Mercari Japan listings, JPY prices, images, item details, seller profiles, categories and search filters. Search by keyword, URL or ID; pay per delivered row plus a run start fee",
+   "id": "om_kh/etsy-listings-scraper",
+   "username": "om_kh",
+   "name": "etsy-listings-scraper",
+   "title": "Etsy Listings Scraper - Price, Stock, Ratings",
+   "developer": "Khandji Omar",
+   "description": "Scrape Etsy shops and listings: title, price range, currency, stock, rating, review count, variants, category, description, images and shop. Export to JSON, CSV or Excel, or use the API, n8n or Make. No login. For pricing research and product ideas",
    "totalUsers": 3,
    "monthlyUsers": 1,
    "rating": null,
    "reviews": 0,
-   "url": "https://apify.com/lentic_clockss/mercari-scraper?fpr=youssef",
-   "group": "global-marketplaces"
+   "url": "https://apify.com/om_kh/etsy-listings-scraper?fpr=youssef",
+   "group": "ebay-etsy"
   },
   {
    "id": "dz_omar/kleinanzeigen-scraper",
@@ -14520,34 +13722,6 @@
    "rating": null,
    "reviews": 0,
    "url": "https://apify.com/lentic_clockss/europages-scraper?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
-   "id": "s_actors/craigslist-scraper",
-   "username": "s_actors",
-   "name": "craigslist-scraper",
-   "title": "Craigslist Scraper & API: Export Ads, Cars, Rentals, Jobs",
-   "developer": "Superior Actors",
-   "description": "Scrape Craigslist without login: ads by keyword, category and city (710 sites, 40+ countries) or from a search or ad URL. Price, photos, bedrooms, mileage, pay, coordinates, full text, address, e-mails in the ad text. New-ad and price-drop alerts. JSON, CSV, Excel",
-   "totalUsers": 2,
-   "monthlyUsers": 1,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/s_actors/craigslist-scraper?fpr=youssef",
-   "group": "global-marketplaces"
-  },
-  {
-   "id": "s_actors/apple-store-stock-checker",
-   "username": "s_actors",
-   "name": "apple-store-stock-checker",
-   "title": "Apple Store Stock Checker & API: iPhone Pickup & Prices",
-   "developer": "Superior Actors",
-   "description": "Apple Store stock checker and API: is an iPhone, iPad or Mac available for pickup at the Apple Stores near your ZIP code or city? Prices in 38 countries, delivery status, store address and hours. Any model or part number. Scheduled runs = restock and price-drop alerts",
-   "totalUsers": 2,
-   "monthlyUsers": 1,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/s_actors/apple-store-stock-checker?fpr=youssef",
    "group": "other-ecommerce"
   },
   {
@@ -14703,6 +13877,20 @@
    "reviews": 0,
    "url": "https://apify.com/anyxsolutions/google-shopping-scraper?fpr=youssef",
    "group": "price-comparison"
+  },
+  {
+   "id": "plumblinedata/vinted-search-scraper",
+   "username": "plumblinedata",
+   "name": "vinted-search-scraper",
+   "title": "Vinted Scraper: Prices, Brands, Sizes, 23 Countries ()",
+   "developer": "Plumbline",
+   "description": "failed inputs free. Scrape Vinted search results in 23 countries: title, brand, size, condition, price with buyer fee, favourites, photos and seller. Filters and search URLs",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/plumblinedata/vinted-search-scraper?fpr=youssef",
+   "group": "global-marketplaces"
   },
   {
    "id": "steadyfetch/pinterest-scraper",
@@ -15083,6 +14271,20 @@
    "group": "reviews"
   },
   {
+   "id": "automly/shopify-app-store-scraper",
+   "username": "automly",
+   "name": "shopify-app-store-scraper",
+   "title": "Shopify App Store Scraper",
+   "developer": "Automly",
+   "description": "Scrape the Shopify App Store by search, category or app link: app details with developer, rating, review count, pricing plans, categories, languages and launch date, plus each app's reviews. No login",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/automly/shopify-app-store-scraper?fpr=youssef",
+   "group": "shopify-stores"
+  },
+  {
    "id": "bonpleincapital/vinted-price-alert",
    "username": "bonpleincapital",
    "name": "vinted-price-alert",
@@ -15277,6 +14479,20 @@
    "reviews": 0,
    "url": "https://apify.com/alaathr/google-hotels-prices?fpr=youssef",
    "group": "reviews"
+  },
+  {
+   "id": "plumblinedata/1688-product-scraper",
+   "username": "plumblinedata",
+   "name": "1688-product-scraper",
+   "title": "1688 Product Scraper: Price Tiers, MOQ, Supplier ()",
+   "developer": "Plumbline",
+   "description": "failed inputs free. Scrape 1688.com products by link or ID: price tiers, minimum order, stock, units sold, variants, attributes, images and supplier scores. Failed inputs free",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/plumblinedata/1688-product-scraper?fpr=youssef",
+   "group": "chinese-marketplaces"
   },
   {
    "id": "tortuga/cardmarket-scraper",
@@ -15643,6 +14859,20 @@
    "group": "reviews"
   },
   {
+   "id": "litescrape/sprouts-search",
+   "username": "litescrape",
+   "name": "sprouts-search",
+   "title": "Cheapest Sprouts Product Search",
+   "developer": "Lite Scraper",
+   "description": "Search Sprouts Farmers Market products for a store. Get names, brands, prices, sizes and product links. Many products per page., run usage included",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/litescrape/sprouts-search?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
    "id": "ratatoskr/carrefour-fr-scraper",
    "username": "ratatoskr",
    "name": "carrefour-fr-scraper",
@@ -15893,6 +15123,20 @@
    "reviews": 0,
    "url": "https://apify.com/lulzasaur/christies-scraper?fpr=youssef",
    "group": "other-ecommerce"
+  },
+  {
+   "id": "automatic/1688-product-details",
+   "username": "automatic",
+   "name": "1688-product-details",
+   "title": "1688 Product Details: SKUs, Stock, MOQ & Suppliers",
+   "developer": "Philip Kirkbride",
+   "description": "Get full 1688.com offer details from links, ids or keywords: every SKU variant with its own price and stock, MOQ, quantity price tiers, supplier company, ships-from city, delivery promise, specs, images and video. Optional supplier vetting profile and review summary",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/automatic/1688-product-details?fpr=youssef",
+   "group": "chinese-marketplaces"
   },
   {
    "id": "rowkeeper/aldi-uk-products",
@@ -17253,88 +16497,256 @@
    "group": "price-comparison"
   },
   {
-   "id": "hyperbach/ebay-scraper",
-   "username": "hyperbach",
-   "name": "ebay-scraper",
-   "title": "eBay Scraper API: eBay Listings, Prices, Sellers, Ended Sales",
-   "developer": "Hyperbach",
-   "description": "eBay scraper API with no login: active eBay listings on 8 eBay sites by keyword, search link or seller, with price, shipping, condition, bids, watchers, seller and sold count. Ended sales by item link, a seller's sold items with the price paid, item details, an AI junk filter. Misses free",
+   "id": "tenfoldfleet/walmart-product-details",
+   "username": "tenfoldfleet",
+   "name": "walmart-product-details",
+   "title": "Walmart Product Details - Price, Stock & Seller by Item ID",
+   "developer": "Tenfold Fleet",
+   "description": "Get Walmart product details by item ID or product URL: current price, was-price, unit price, stock status, seller, brand, UPC, model, rating, review count, category, images, specs and variants from walmart.com (US). No browser.; not-found, invalid and blocked items are free",
    "totalUsers": 2,
    "monthlyUsers": 1,
    "rating": null,
    "reviews": 0,
-   "url": "https://apify.com/hyperbach/ebay-scraper?fpr=youssef",
-   "group": "ebay-etsy"
+   "url": "https://apify.com/tenfoldfleet/walmart-product-details?fpr=youssef",
+   "group": "us-retailers"
   },
   {
-   "id": "tamgadev/shopify-app-reviews-scraper",
-   "username": "tamgadev",
-   "name": "shopify-app-reviews-scraper",
-   "title": "Shopify App Store Reviews Scraper ()",
-   "developer": "TamgaDev",
-   "description": "Shopify App Store reviews for any app: rating, text, merchant store name and country, how long they used the app, and the developer reply. Track competitors on a schedule with sinceDays. PPE",
+   "id": "jobdata-tools/store-products",
+   "username": "jobdata-tools",
+   "name": "store-products",
+   "title": "Shopify & WooCommerce Product Price Scraper",
+   "developer": "Mathias",
+   "description": "Scrape public product and price data from Shopify and WooCommerce stores via official catalog APIs. Get titles, variants, SKUs, prices, compare-at prices, stock status and images in one schema. No login, no browser, no personal data, no residential proxies",
    "totalUsers": 2,
    "monthlyUsers": 1,
    "rating": null,
    "reviews": 0,
-   "url": "https://apify.com/tamgadev/shopify-app-reviews-scraper?fpr=youssef",
+   "url": "https://apify.com/jobdata-tools/store-products?fpr=youssef",
    "group": "shopify-stores"
   },
   {
-   "id": "euroscrape/dba-dk-scraper",
-   "username": "euroscrape",
-   "name": "dba-dk-scraper",
-   "title": "DBA.dk Scraper: Denmark Marketplace Data",
-   "developer": "EuroScrape",
-   "description": "DBA listings for any search: title, price in DKK, location, GPS, private or business seller, shipping, posting date, median price per search and price-drop alerts in monitor mode. Denmark second-hand marketplace data API, CSV/Excel export. No login",
+   "id": "memo23/vividseats-scraper",
+   "username": "memo23",
+   "name": "vividseats-scraper",
+   "title": "Vivid Seats Scraper - Ticket Prices, Events & Resale Listings",
+   "developer": "Muhamed Didovic",
+   "description": "Track resale ticket prices on Vivid Seats. For each upcoming concert, game or show you get the get-in price, median and top price with and without fees, seats left by zone, each listing down to row and face value, and the price move since your previous run",
    "totalUsers": 2,
    "monthlyUsers": 1,
    "rating": null,
    "reviews": 0,
-   "url": "https://apify.com/euroscrape/dba-dk-scraper?fpr=youssef",
+   "url": "https://apify.com/memo23/vividseats-scraper?fpr=youssef",
    "group": "other-ecommerce"
   },
   {
-   "id": "datadesk-io/shopify-app-store-scraper",
-   "username": "datadesk-io",
-   "name": "shopify-app-store-scraper",
-   "title": "Shopify App Store Scraper: Apps, Ratings, Reviews & Pricing",
-   "developer": "DataDesk",
-   "description": "Scrape the Shopify App Store by category or app URL: app name, rank, rating, review count, pricing plans, free plan and trial, developer and address, launch date, languages, integrations and Built for Shopify badge. Competitor tracking",
+   "id": "tsutseisoftware/notino-scraper",
+   "username": "tsutseisoftware",
+   "name": "notino-scraper",
+   "title": "Notino Scraper (): Perfume Prices in 27 Countries",
+   "developer": "Tsutsei Software",
+   "description": "Scrape Notino in 27 countries: perfumes and cosmetics with price, crossed-out price, 30-day lowest price, EAN, sizes, stock, ratings and reviews. Compare prices across countries, monitor price drops and stock with alerts, price history and a brand shelf report",
    "totalUsers": 2,
    "monthlyUsers": 1,
    "rating": null,
    "reviews": 0,
-   "url": "https://apify.com/datadesk-io/shopify-app-store-scraper?fpr=youssef",
+   "url": "https://apify.com/tsutseisoftware/notino-scraper?fpr=youssef",
+   "group": "us-retailers"
+  },
+  {
+   "id": "jy-labs/oliveyoung-product-scraper",
+   "username": "jy-labs",
+   "name": "oliveyoung-product-scraper",
+   "title": "Olive Young Scraper - K-Beauty Products, Prices & Options",
+   "developer": "jy-labs",
+   "description": "Scrape Olive Young (oliveyoung.co.kr), Korea's largest K-beauty store: search by keyword, read a category or the sales ranking, or give product URLs. Get prices, discounts, rank, rating and reviews, plus every option with its price, stock and barcode",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/jy-labs/oliveyoung-product-scraper?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "rel8ble/woolworths-scraper",
+   "username": "rel8ble",
+   "name": "woolworths-scraper",
+   "title": "Woolworths Scraper: Australian Grocery Prices & Specials API",
+   "developer": "Giovanni Rich",
+   "description": "Woolworths scraper and API: woolworths.com.au grocery prices by keyword, category, specials list, stock code or URL. One row per product: name, brand, size, price, was price, unit price, special, barcode, stock, category, ingredients. fee. Daily price monitoring",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/rel8ble/woolworths-scraper?fpr=youssef",
+   "group": "us-retailers"
+  },
+  {
+   "id": "stone_jadex/momo-taiwan-products",
+   "username": "stone_jadex",
+   "name": "momo-taiwan-products",
+   "title": "momo Shopping Taiwan Product Scraper (momoshop.com.tw)",
+   "developer": "Stone Jade",
+   "description": "Search results and product details from momoshop.com.tw: promo vs original price (numeric + raw), stock, sales volume, rating, specs, variants",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/stone_jadex/momo-taiwan-products?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "forgeloop/woocommerce-products",
+   "username": "forgeloop",
+   "name": "woocommerce-products",
+   "title": "WooCommerce Products Export from the Store API",
+   "developer": "Markus Heiß",
+   "description": "Export products from public stores built on WooCommerce: name, SKU, prices with currency, sale and stock status, categories, tags, attributes, variations, images and ratings. Reads the public Store API. Many stores per run, search and filters. Pay per product",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/forgeloop/woocommerce-products?fpr=youssef",
    "group": "shopify-stores"
   },
   {
-   "id": "renzomacar/aliexpress-reviews-scraper",
-   "username": "renzomacar",
-   "name": "aliexpress-reviews-scraper",
-   "title": "AliExpress Reviews Scraper - Stars, Photos, Variants, Countries",
-   "developer": "Renzo Madueno",
-   "description": "Get the reviews of any AliExpress product: stars, date, text and English translation, buyer country, variant bought, photos, helpful votes, shipping method and follow-up reviews, plus the star breakdown. Filter by stars, photos or local buyers. No login",
+   "id": "rel8ble/buykorea-scraper",
+   "username": "rel8ble",
+   "name": "buykorea-scraper",
+   "title": "buyKOREA Scraper & API - Korean Suppliers, Products & Prices",
+   "developer": "Giovanni Rich",
+   "description": "buyKOREA scraper and API for KOTRA's Korean B2B marketplace: search by keyword or URL with price, MOQ and halal filters. One row per product + Korean supplier: USD price tiers, MOQ, HS code, website, employees, revenue, export markets. actor on the Store (22 Nov 2026)",
    "totalUsers": 2,
    "monthlyUsers": 1,
    "rating": null,
    "reviews": 0,
-   "url": "https://apify.com/renzomacar/aliexpress-reviews-scraper?fpr=youssef",
-   "group": "chinese-marketplaces"
+   "url": "https://apify.com/rel8ble/buykorea-scraper?fpr=youssef",
+   "group": "other-ecommerce"
   },
   {
-   "id": "tsun_tsun/shopify-store-intel",
-   "username": "tsun_tsun",
-   "name": "shopify-store-intel",
-   "title": "Shopify Store Intel: Products, Prices, Stock & App Stack",
-   "developer": "tsun tsun",
-   "description": "Fast HTTP Shopify store intelligence extractor. Pulls product catalogs, variants, prices, stock availability, collections, contact emails, social links, Shopify theme, and 35+ installed apps and marketing pixels",
+   "id": "tallyproof/shopify-products-price-scraper",
+   "username": "tallyproof",
+   "name": "shopify-products-price-scraper",
+   "title": "Shopify Products Scraper - Prices, Sales, Stock & Variants",
+   "developer": "Ethan Kerr",
+   "description": "Scrape any Shopify store's public catalog: products, prices, compare-at (sale) prices, discount %, stock status, variants, SKUs, vendors and tags. Filter by sale, stock, price, keyword or new launches. Free per-store summary. No personal data",
    "totalUsers": 2,
    "monthlyUsers": 1,
    "rating": null,
    "reviews": 0,
-   "url": "https://apify.com/tsun_tsun/shopify-store-intel?fpr=youssef",
+   "url": "https://apify.com/tallyproof/shopify-products-price-scraper?fpr=youssef",
    "group": "shopify-stores"
+  },
+  {
+   "id": "saffo/finland-grocery-store-prices",
+   "username": "saffo",
+   "name": "finland-grocery-store-prices",
+   "title": "Finland Grocery Prices by Store (S-kaupat, unofficial)",
+   "developer": "Saffo",
+   "description": "Shelf prices, campaign prices, lowest 30-day prices, unit prices and EAN codes of Finnish grocery products from S-kaupat.fi category pages, one row per product per chosen store. Not affiliated with S Group or SOK",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/saffo/finland-grocery-store-prices?fpr=youssef",
+   "group": "us-retailers"
+  },
+  {
+   "id": "plumblinedata/walmart-reviews-scraper",
+   "username": "plumblinedata",
+   "name": "walmart-reviews-scraper",
+   "title": "Walmart Reviews Scraper: Ratings, Text, Photos ()",
+   "developer": "Plumbline",
+   "description": "failed inputs free. Scrape Walmart reviews by product ID or URL: stars, text, date, verified purchase, helpful votes, photos and brand replies. Filter by stars and date",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/plumblinedata/walmart-reviews-scraper?fpr=youssef",
+   "group": "us-retailers"
+  },
+  {
+   "id": "rjmacarthy/etsy-scraper",
+   "username": "rjmacarthy",
+   "name": "etsy-scraper",
+   "title": "Etsy Scraper - Search Listings, Prices, Shops & Bestsellers",
+   "developer": "rj",
+   "description": "Scrape Etsy search and category results: title, price, sale discount, shop, shop rating and reviews, Bestseller, Star Seller and ad flags. Optional listing details (description, favorites, shop sales, variations, images) and a monitor mode for new listings and price changes",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/rjmacarthy/etsy-scraper?fpr=youssef",
+   "group": "ebay-etsy"
+  },
+  {
+   "id": "tai_suzu/japan-marketplace-price-finder",
+   "username": "tai_suzu",
+   "name": "japan-marketplace-price-finder",
+   "title": "Yahoo Auctions Japan Scraper - Sold Prices + Rakuma (ヤフオク)",
+   "developer": "Tai.Suzuki",
+   "description": "Yahoo Auctions Japan scraper and price API (auctions.yahoo.co.jp, Japan's largest auction site, a.k.a. Yahoo Japan / ヤフオク) plus Rakuma. Get sold and active prices, condition, bids and links. Starts with a median sold price summary in JPY and USD. One input: query",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/tai_suzu/japan-marketplace-price-finder?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "iveeeeeen/competitor-price-stock-monitor",
+   "username": "iveeeeeen",
+   "name": "competitor-price-stock-monitor",
+   "title": "Competitor Price & Stock Monitor",
+   "developer": "Ivan Alvarado",
+   "description": "Track price and stock on any product URL. Detects drops, increases and stock changes versus the last run. Reads JSON-LD, Open Graph, microdata and common CSS, with optional selector overrides and a Slack-compatible webhook.; failed pages are free",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/iveeeeeen/competitor-price-stock-monitor?fpr=youssef",
+   "group": "price-comparison"
+  },
+  {
+   "id": "litescrape/bing-shopping",
+   "username": "litescrape",
+   "name": "bing-shopping",
+   "title": "Cheapest Bing Shopping Scraper",
+   "developer": "Lite Scraper",
+   "description": "Scrape Bing Shopping results: products, prices, merchants, ratings and tokens for follow-up product lookups. Many products per page., run usage included",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/litescrape/bing-shopping?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "vexaloom-labs/vestiaire-collective-pre-owned-luxury-price",
+   "username": "vexaloom-labs",
+   "name": "vestiaire-collective-pre-owned-luxury-price",
+   "title": "Vestiaire Collective Pre-Owned Luxury Price Tracker",
+   "developer": "vexaloom-labs",
+   "description": "Find pre-owned luxury listings on Vestiaire Collective by keyword, category or brand, or fetch specific product URLs, and get price, original price, condition, brand, material, seller country and authentication status per item",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/vexaloom-labs/vestiaire-collective-pre-owned-luxury-price?fpr=youssef",
+   "group": "price-comparison"
+  },
+  {
+   "id": "happyendpoint/ninja-saudi-grocery-product-scraper",
+   "username": "happyendpoint",
+   "name": "ninja-saudi-grocery-product-scraper",
+   "title": "Ninja Grocery Product Scraper: Prices and Catalog",
+   "developer": "Happy Endpoint",
+   "description": "Read the grocery, beauty and pharmacy catalog that Ninja serves in Saudi Arabia: find the stores at a delivery point, then search products, browse a category or brand, and get prices, discounts, units, categories and brands for price monitoring",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/happyendpoint/ninja-saudi-grocery-product-scraper?fpr=youssef",
+   "group": "price-comparison"
   },
   {
    "id": "pwn401/aliexpress-search-scraper",
@@ -17391,6 +16803,48 @@
    "reviews": 0,
    "url": "https://apify.com/rich_minds/india-b2b-suppliers-ai?fpr=youssef",
    "group": "other-ecommerce"
+  },
+  {
+   "id": "arxrock/meta-ad-library-monitor",
+   "username": "arxrock",
+   "name": "meta-ad-library-monitor",
+   "title": "Facebook & Instagram Ads Library Scraper & Monitor",
+   "developer": "ArxRock Data",
+   "description": "Track Facebook & Instagram ads from the Meta Ad Library. Get only NEW and ENDED competitor ads since your last run, find winning ads, get Slack alerts. No login",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/arxrock/meta-ad-library-monitor?fpr=youssef",
+   "group": "ads-and-trends"
+  },
+  {
+   "id": "rel8ble/doe-certified-equipment-scraper",
+   "username": "rel8ble",
+   "name": "doe-certified-equipment-scraper",
+   "title": "DOE Certified Appliances & Equipment Scraper - CCMS",
+   "developer": "Giovanni Rich",
+   "description": "DOE Compliance Certification Database (CCMS) scraper and API: US certified models of compressors, pumps, transformers, HVAC, water heaters and 70+ more groups. One row per model: brand, model numbers, every certified rating. New-model checks. Only CCMS actor on the Store",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/rel8ble/doe-certified-equipment-scraper?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "rel8ble/google-hotels-scraper",
+   "username": "rel8ble",
+   "name": "google-hotels-scraper",
+   "title": "Google Hotels Scraper & API - Google Travel Hotel Prices, Deals",
+   "developer": "Giovanni Rich",
+   "description": "Google Hotels scraper and API (Google Travel): a city or \"hotels near\" search plus dates in; one row per hotel out with nightly and total price incl. taxes, deal badge, stars, rating, reviews, amenities, GPS. Daily hotel price monitoring., platform usage included",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/rel8ble/google-hotels-scraper?fpr=youssef",
+   "group": "price-comparison"
   },
   {
    "id": "scrapeworks/shopify-app-store-scraper",
@@ -17533,6 +16987,20 @@
    "group": "reviews"
   },
   {
+   "id": "bonpleincapital/shopee-scraper-pompon",
+   "username": "bonpleincapital",
+   "name": "shopee-scraper-pompon",
+   "title": "Shopee Scraper: prices, discounts, reviews (ID VN PH TH MY)",
+   "developer": "Bon Plein Capital",
+   "description": "Shopee scraper for ID, VN, PH, TH, MY: product prices, discounts, ratings, sold counts, price-drop tracking and reviews. Public pages, no login. AI-made. License: personal use only; resale and redistribution prohibited. Created with the help of artificial intelligence",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/bonpleincapital/shopee-scraper-pompon?fpr=youssef",
+   "group": "global-marketplaces"
+  },
+  {
    "id": "tenfoldfleet/alibaba-rfq-scraper-buying-requests-monitor",
    "username": "tenfoldfleet",
    "name": "alibaba-rfq-scraper-buying-requests-monitor",
@@ -17547,46 +17015,858 @@
    "group": "chinese-marketplaces"
   },
   {
-   "id": "actose/pages-jaunes-scrapper",
-   "username": "actose",
-   "name": "pages-jaunes-scrapper",
-   "title": "Pages Jaunes Scraper - French Business Leads",
-   "developer": "ABM",
-   "description": "Extract business leads from PagesJaunes.fr (French Yellow Pages). Get names, addresses, postal codes, ratings, categories & more perfect for B2B prospecting in France. Pay. 1000 free results to try. 40+ professions, all French cities",
+   "id": "cliqtomedia/yandex-market-scraper",
+   "username": "cliqtomedia",
+   "name": "yandex-market-scraper",
+   "title": "Yandex Market Scraper: Prices, Sellers, Reviews & Offers",
+   "developer": "Cliqto Media",
+   "description": "Scrape Yandex Market (Яндекс Маркет) search, category and product pages: prices, old prices, ratings, sellers, reviews, offers and images. No login",
    "totalUsers": 2,
    "monthlyUsers": 1,
    "rating": null,
    "reviews": 0,
-   "url": "https://apify.com/actose/pages-jaunes-scrapper?fpr=youssef",
+   "url": "https://apify.com/cliqtomedia/yandex-market-scraper?fpr=youssef",
    "group": "reviews"
   },
   {
-   "id": "muhammetakkurtt/careem-quik-scraper",
-   "username": "muhammetakkurtt",
-   "name": "careem-quik-scraper",
-   "title": "Careem Quik Scraper",
-   "developer": "Muhammet Akkurt",
-   "description": "Scrape Careem Quik grocery products, prices, discounts, barcodes and stock across Dubai and Abu Dhabi - featured storefront or the full catalog, as JSON, CSV or Excel. No account or login required",
-   "totalUsers": 2,
-   "monthlyUsers": 1,
-   "rating": 5,
-   "reviews": 1,
-   "url": "https://apify.com/muhammetakkurtt/careem-quik-scraper?fpr=youssef",
-   "group": "other-ecommerce"
-  },
-  {
-   "id": "scrapestorm/kelley-blue-book-vehicles-scraper-cheap",
-   "username": "scrapestorm",
-   "name": "kelley-blue-book-vehicles-scraper-cheap",
-   "title": "Kelley Blue Book Vehicles Scraper - Cheap",
-   "developer": "Storm_Scraper",
-   "description": "Easily collect vehicles by providing one or multiple Kelley Blue Book brand or URLs Extract valuable vehicle insights such as Vehicle Model Body Style Starting Price Consumer Rating Image Listing URL & more Perfect for automotive price monitoring & vehicle research",
+   "id": "memo23/zara-scraper",
+   "username": "memo23",
+   "name": "zara-scraper",
+   "title": "Zara Scraper: Prices, Sizes, Stock & Materials",
+   "developer": "Muhamed Didovic",
+   "description": "Scrape Zara products by keyword, category, search link, product link or id in 19 country stores: price, discount, currency, stock, colourway, department. Add every colour, every size with its SKU and stock, all images, composition and care, or run a quick price-and-stock check",
    "totalUsers": 2,
    "monthlyUsers": 1,
    "rating": null,
    "reviews": 0,
-   "url": "https://apify.com/scrapestorm/kelley-blue-book-vehicles-scraper-cheap?fpr=youssef",
+   "url": "https://apify.com/memo23/zara-scraper?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "mrdoe/mancity-ticket-scraper",
+   "username": "mrdoe",
+   "name": "mancity-ticket-scraper",
+   "title": "Mancity Ticket Scraper",
+   "developer": "MrDoe",
+   "description": "",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/mrdoe/mancity-ticket-scraper?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "silentflow/sweetwater-scraper",
+   "username": "silentflow",
+   "name": "sweetwater-scraper",
+   "title": "Sweetwater Scraper | Product Prices and Stock",
+   "developer": "SilentFlow",
+   "description": "Sweetwater scraper for music gear and pro audio prices: search sweetwater.com by keyword, item ID, link, category or brand and get price, list price, deals, stock units, MPN, UPC, specs, photos and reviews. 20 products in 3 seconds, 29 fields each. Built for MAP monitoring and repricing. No login",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/silentflow/sweetwater-scraper?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "eu-data-labs/autoscout24-scraper",
+   "username": "eu-data-labs",
+   "name": "autoscout24-scraper",
+   "title": "AutoScout24 Fast Scraper (All Europe Countries & Full Details)",
+   "developer": "eu-data-labs",
+   "description": "Fast, zero-browser AutoScout24 scraper for cars, motorcycles & commercial vehicles across Germany, Italy, France, Austria, Belgium, Netherlands, Spain, Luxembourg & more. Extracts structured pricing, specs, mileage, dealer contact, VIN/equipment, and full photos via direct __NEXT_DATA__ parsing",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/eu-data-labs/autoscout24-scraper?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "tenfoldfleet/aliexpress-product-details-api",
+   "username": "tenfoldfleet",
+   "name": "aliexpress-product-details-api",
+   "title": "AliExpress Product Details API - SKU Prices, Stock & Shipping",
+   "developer": "Tenfold Fleet",
+   "description": "Get the full details of AliExpress products from their URLs or item IDs: price and stock of every SKU variant, US shipping cost and delivery days, specs, images, store, rating, reviews and orders.; blocked, removed and unavailable products are free",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/tenfoldfleet/aliexpress-product-details-api?fpr=youssef",
+   "group": "chinese-marketplaces"
+  },
+  {
+   "id": "redomic/govdeals-scraper",
+   "username": "redomic",
+   "name": "govdeals-scraper",
+   "title": "GovDeals Scraper",
+   "developer": "Redomic",
+   "description": "Search and monitor GovDeals government surplus auctions for fleet trucks, equipment and more. Get flat lot rows with lot ID, title, seller, location, current bid, end time, category and direct asset URLs for a spreadsheet or API. Scheduled monitor runs report only new, changed and removed lots",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/redomic/govdeals-scraper?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "henrycrawl/ebay-seller-scraper",
+   "username": "henrycrawl",
+   "name": "ebay-seller-scraper",
+   "title": "eBay Seller Scraper - Store Inventory & Price Stats",
+   "developer": "Henry Crawl",
+   "description": "Scrape an eBay seller's store to JSON plus a per-seller summary record: listing count, min / max / median price, condition mix, units sold. AI agents via Apify MCP",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/henrycrawl/ebay-seller-scraper?fpr=youssef",
+   "group": "ebay-etsy"
+  },
+  {
+   "id": "normdata/lajumate-scraper",
+   "username": "normdata",
+   "name": "lajumate-scraper",
+   "title": "Lajumate Scraper - Romania Classifieds with Phones",
+   "developer": "Norm Data",
+   "description": "Track Romanian prices, spot fresh deals and build seller lead lists. Scrapes Lajumate.ro classifieds: cars, real estate, jobs, electronics and 700 categories, with price in EUR, full description, seller phone, city and county, car and property specs, photos and dates. Filters for every field",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/normdata/lajumate-scraper?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "haketa/viator-scraper",
+   "username": "haketa",
+   "name": "viator-scraper",
+   "title": "Viator Tours & Activities Scraper - Prices, Ratings & Durations",
+   "developer": "Haketa",
+   "description": "Extract Viator tours, tickets, excursions, and experiences worldwide. Collect tour titles, starting & discounted prices, savings, ratings, review counts, durations, free cancellation flags, badges, offered languages, destinations, descriptions, and high-res photos for travel pricing intelligence",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/haketa/viator-scraper?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "rel8ble/tradeindia-scraper",
+   "username": "rel8ble",
+   "name": "tradeindia-scraper",
+   "title": "TradeIndia Scraper & API - Indian Suppliers, Prices, MOQ",
+   "developer": "Giovanni Rich",
+   "description": "TradeIndia scraper and API: Indian B2B suppliers by product keyword. One row per listing: supplier, company URL, city, business type, years in business, TrustStamp, product, price, MOQ, specs, payment terms, delivery time. No login, no start fee. on 22 Nov 2026",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/rel8ble/tradeindia-scraper?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "haketa/deliveroo-scraper",
+   "username": "haketa",
+   "name": "deliveroo-scraper",
+   "title": "Deliveroo Scraper - Restaurants, Menus, Prices & Leads",
+   "developer": "Haketa",
+   "description": "Extract Deliveroo restaurants, menus, prices, ratings, delivery fees, promos, street addresses, phone numbers & hygiene scores across UK, France, Italy, Belgium, Ireland, UAE & Kuwait. Built for restaurant B2B lead generation, POS sales & food delivery price intelligence",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/haketa/deliveroo-scraper?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "woolly_neon_noz/otomoto-scraper",
+   "username": "woolly_neon_noz",
+   "name": "otomoto-scraper",
+   "title": "Otomoto.pl Used Car Scraper (EUR prices)",
+   "developer": "Terabit Ai",
+   "description": "Scrape used-car listings from otomoto.pl search pages: make, model, year, mileage, fuel, gearbox, power, price in PLN and EUR (ECB rate), seller type, city. Incremental mode returns only new or re-priced listings",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/woolly_neon_noz/otomoto-scraper?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "henrycrawl/app-store-reviews-ai",
+   "username": "henrycrawl",
+   "name": "app-store-reviews-ai",
+   "title": "App Store Reviews Scraper - 175 Countries, AI-Ready",
+   "developer": "Henry Crawl",
+   "description": "Scrape Apple App Store reviews across countries to JSON: rating, title, text, version and date, ready for AI analysis and sentiment. Works with AI agents via Apify MCP",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/henrycrawl/app-store-reviews-ai?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "techliondev/isbn-book-lookup",
+   "username": "techliondev",
+   "name": "isbn-book-lookup",
+   "title": "ISBN Book Lookup: Metadata, Covers & ISBN-10/13",
+   "developer": "TechLion Dev",
+   "description": "Look up book metadata and cover images by ISBN-10, ISBN-13 or title from Open Library, with a Google Books fallback. No login",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/techliondev/isbn-book-lookup?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "jaybird/gumroad-scraper",
+   "username": "jaybird",
+   "name": "gumroad-scraper",
+   "title": "Gumroad Scraper - Products, Creators, Sales & Reviews",
+   "developer": "Jaybird Technologies",
+   "description": "Scrape Gumroad products by keyword, tag, category, storefront or URL: USD prices, ratings and breakdown, sales counts (when shown), dates, variants and tiers, plus optional creator profiles (socials, public emails) and written reviews. No login, no start fee",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/jaybird/gumroad-scraper?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "memo23/oscaro-product-scraper",
+   "username": "memo23",
+   "name": "oscaro-product-scraper",
+   "title": "Oscaro Product Scraper - Prices (EUR), References & Specs",
+   "developer": "Muhamed Didovic",
+   "description": "Scrape Oscaro car parts - prices (EUR), brands, references, EAN, TecDoc specs, cross-references & images. Search by part name or OE reference without vehicle selection. Clean JSON/CSV, no code",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/memo23/oscaro-product-scraper?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "reventadata/carrefour-scraper",
+   "username": "reventadata",
+   "name": "carrefour-scraper",
+   "title": "Carrefour France Scraper: Grocery Prices",
+   "developer": "reventadata",
+   "description": "Search carrefour.fr or read its category pages. Get name, brand, EAN, price, price per kg or litre, promotion with dates and struck price, availability, image, category path, rating and Nutri-Score",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/reventadata/carrefour-scraper?fpr=youssef",
+   "group": "us-retailers"
+  },
+  {
+   "id": "rowkeeper/vivino-wines",
+   "username": "rowkeeper",
+   "name": "vivino-wines",
+   "title": "Vivino Wine Ratings and Prices",
+   "developer": "Rowkeeper",
+   "description": "Wines from Vivino's public explore pages: name, winery, vintage, country, region, grapes, average rating, rating count and US dollar price. No reviews, no user data. Tested every day and kept working",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/rowkeeper/vivino-wines?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "jaybird/zillow-scraper",
+   "username": "jaybird",
+   "name": "zillow-scraper",
+   "title": "Zillow Scraper",
+   "developer": "Jaybird Technologies",
+   "description": "Scrape Zillow listings for sale, for rent or recently sold by city, ZIP code, neighborhood or search URL: price, beds, baths, sqft, Zestimate, address, coordinates, photos",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/jaybird/zillow-scraper?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "renzomacar/aliexpress-search-scraper",
+   "username": "renzomacar",
+   "name": "aliexpress-search-scraper",
+   "title": "AliExpress Search Scraper - Products, Prices, Sales & Ratings",
+   "developer": "Renzo Madueno",
+   "description": "Search AliExpress by keyword or search URL and get every product with price, original price, discount, rating, units sold, ship-from country, store, delivery and images. Choose ship-to country and currency, sort by orders or price, filter by rating and sales. No login",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/renzomacar/aliexpress-search-scraper?fpr=youssef",
+   "group": "chinese-marketplaces"
+  },
+  {
+   "id": "jy-labs/musinsa-product-scraper",
+   "username": "jy-labs",
+   "name": "musinsa-product-scraper",
+   "title": "Musinsa Scraper - Korean Fashion Products, Prices & Sizes",
+   "developer": "jy-labs",
+   "description": "Scrape Musinsa (musinsa.com), Korea's largest fashion store: search by keyword, browse a category, or give product URLs. Get prices, discounts, rank, rating, reviews and likes, plus per-option price and stock, sales counts and size charts from the product page",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/jy-labs/musinsa-product-scraper?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "mrbridge/autoscout24-listings-scraper",
+   "username": "mrbridge",
+   "name": "autoscout24-listings-scraper",
+   "title": "AutoScout24 Listings Scraper: Car Prices and Sellers",
+   "developer": "MrBridge",
+   "description": "Scrape AutoScout24 car listings into one row per vehicle. Get price, make, model, mileage, first registration, fuel, power, gearbox, photos, dealer name and address, and seller phones. Filter by make, model, country, price and year, or paste a search URL. Export to JSON, CSV or Excel",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/mrbridge/autoscout24-listings-scraper?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "automation-lab/aliexpress-reviews-sellers-scraper",
+   "username": "automation-lab",
+   "name": "aliexpress-reviews-sellers-scraper",
+   "title": "AliExpress Products, Reviews & Sellers Scraper",
+   "developer": "Automation Lab",
+   "description": "Search AliExpress or open product URLs and export product details, SKU variants, seller reputation and individual buyer reviews as separate rows",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/automation-lab/aliexpress-reviews-sellers-scraper?fpr=youssef",
+   "group": "chinese-marketplaces"
+  },
+  {
+   "id": "matakupanlabs/tokopedia-product-scraper",
+   "username": "matakupanlabs",
+   "name": "tokopedia-product-scraper",
+   "title": "Tokopedia Product Scraper - Search Results and Prices",
+   "developer": "uzi",
+   "description": "Scrape public Tokopedia search results: product title, price in IDR, shop, location, promo label, and product URL. No login. Residential proxy handled automatically. Pay per product",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/matakupanlabs/tokopedia-product-scraper?fpr=youssef",
+   "group": "global-marketplaces"
+  },
+  {
+   "id": "om_kh/trustpilot-reviews-scraper",
+   "username": "om_kh",
+   "name": "trustpilot-reviews-scraper",
+   "title": "Trustpilot Company Reviews Scraper - Rating, Text, Reviewer",
+   "developer": "Khandji Omar",
+   "description": "Trustpilot company reviews scraper: bulk-download reviews for any company: rating, title, text, reviewer, country and date, plus the company's review count and average score. JSON, CSV or Excel, or call it as an API. No login needed. For competitor and reputation research",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/om_kh/trustpilot-reviews-scraper?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "blackfalcondata/wayfair-com-scraper",
+   "username": "blackfalcondata",
+   "name": "wayfair-com-scraper",
+   "title": "Wayfair Scraper - Products, Prices & Reviews",
+   "developer": "Black Falcon Data",
+   "description": "Scrape Wayfair.com search results into structured product rows: price, was-price and discount, brand, rating and review count, stock status, shipping and delivery estimate, size and color option, specs and category path. Search by keyword or paste a Wayfair search URL",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/blackfalcondata/wayfair-com-scraper?fpr=youssef",
+   "group": "us-retailers"
+  },
+  {
+   "id": "epicscrapers/tiqets-scraper",
+   "username": "epicscrapers",
+   "name": "tiqets-scraper",
+   "title": "Tiqets Scraper - Tickets, Prices, Availability & Reviews",
+   "developer": "Epic Scrapers",
+   "description": "Scrape Tiqets attraction tickets and tours by city, attraction or URL: price, discount, rating, inclusions, meeting point. Get a price and tickets-left calendar per date and timeslot, or export verified reviews. 21 currencies, no login",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/epicscrapers/tiqets-scraper?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "lulzasaur/antiquorum-scraper",
+   "username": "lulzasaur",
+   "name": "antiquorum-scraper",
+   "title": "Antiquorum Watch Auction Results Scraper",
+   "developer": "lulz bot",
+   "description": "Search Antiquorum watch auction lots: sold price, estimates in 5 currencies, brand, model, reference, year, case number, caliber, sale and date. Built for vintage Rolex, Patek Philippe and Omega price research",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/lulzasaur/antiquorum-scraper?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "rel8ble/kleinanzeigen-scraper",
+   "username": "rel8ble",
+   "name": "kleinanzeigen-scraper",
+   "title": "Kleinanzeigen Scraper & API - eBay Kleinanzeigen Ads & Prices",
+   "developer": "Giovanni Rich",
+   "description": "Kleinanzeigen scraper and API (formerly eBay Kleinanzeigen): search German classifieds by keyword, category, city/PLZ + radius, price, seller type. One result = one ad: title, price, place, date, shop, photos, URL. Details included, no start fee. details, 18 Nov 2026",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/rel8ble/kleinanzeigen-scraper?fpr=youssef",
+   "group": "dach"
+  },
+  {
+   "id": "redomic/otomoto-scraper",
+   "username": "redomic",
+   "name": "otomoto-scraper",
+   "title": "Otomoto.pl Scraper",
+   "developer": "Redomic",
+   "description": "Scrape Otomoto.pl Polish car listings: one run returns used-car rows with price, make, model, year, mileage, fuel, gearbox, seller and URL. Detail mode adds description, photos, equipment, VIN and CEPiK history; monitor mode tracks new, price-changed and removed cars",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/redomic/otomoto-scraper?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "hexagone-data/fiverr-gigs-scraper",
+   "username": "hexagone-data",
+   "name": "fiverr-gigs-scraper",
+   "title": "Fiverr Gigs Scraper - Prices, Packages, Sellers & Ratings",
+   "developer": "Hexagone Data",
+   "description": "Scrape Fiverr gigs from keywords, search or category URLs, sellers and gig links: starting price in USD, rating, reviews, seller level, country, Pro and Fiverr's Choice badges, sponsored flag and search position; optional gig page with the 3 packages, description, FAQ and tags. Pay per gig",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/hexagone-data/fiverr-gigs-scraper?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "northbell/vinted-new-listings-tracker",
+   "username": "northbell",
+   "name": "vinted-new-listings-tracker",
+   "title": "Vinted Monitor & Tracker: New Listings from Saved Searches",
+   "developer": "Northbell",
+   "description": "Watch Vinted saved searches on vinted.fr,.de,.co.uk,.com,.es,.it,.nl,.pl and.be. Price, total with buyer protection, brand, size, condition, photo. Only the new listings since the last run, so a run with nothing new costs nothing",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/northbell/vinted-new-listings-tracker?fpr=youssef",
+   "group": "global-marketplaces"
+  },
+  {
+   "id": "tenfoldfleet/aldi-australia-scraper",
+   "username": "tenfoldfleet",
+   "name": "aldi-australia-scraper",
+   "title": "ALDI Australia Scraper - AU Products, Unit Prices & Catalogue",
+   "developer": "Tenfold Fleet",
+   "description": "Get ALDI Australia grocery prices, unit prices and Special Buys dates: search aldi.com.au by keyword or category, or export the whole AU catalogue (about 3,250 products) in one run. Brand, pack size, category, image, URL., no start fee; empty searches free",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/tenfoldfleet/aldi-australia-scraper?fpr=youssef",
+   "group": "dach"
+  },
+  {
+   "id": "mmdincer/product-price-monitor",
+   "username": "mmdincer",
+   "name": "product-price-monitor",
+   "title": "Product Price Monitor - Any Store, Price Drop & Stock Alerts",
+   "developer": "Muhammet Mustafa Dincer",
+   "description": "Watch product prices and stock on any online store. Each row keeps title, price, currency, availability, SKU and GTIN, plus the previous price and changed fields. Reads schema.org, Shopify, WooCommerce, Magento and 68 retailer adapters. Results as JSON, CSV or Excel. Access through API or MCP",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/mmdincer/product-price-monitor?fpr=youssef",
    "group": "price-comparison"
+  },
+  {
+   "id": "pshivam/amazon-best-sellers-scraper",
+   "username": "pshivam",
+   "name": "amazon-best-sellers-scraper",
+   "title": "Amazon Best Sellers & New Releases Scraper - Top 100 Lists",
+   "developer": "Shivam Prajapati",
+   "description": "Scrape Amazon Best Sellers and New Releases, no login: the top 100 products of every department and sub-category with rank, title, price, rating, reviews and image. 15 marketplaces. Export to Excel, CSV or API",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/pshivam/amazon-best-sellers-scraper?fpr=youssef",
+   "group": "amazon"
+  },
+  {
+   "id": "datadesk-io/kleinanzeigen-scraper",
+   "username": "datadesk-io",
+   "name": "kleinanzeigen-scraper",
+   "title": "Kleinanzeigen Scraper: Listings, Prices & Sellers (Germany)",
+   "developer": "DataDesk",
+   "description": "Scrape kleinanzeigen.de (ex eBay Kleinanzeigen) by keyword or search URL: title, price, VB, ZIP, city, state, posting date, description, shipping, private or commercial seller, images. Price and seller filters, daily new-listing alerts. No login",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/datadesk-io/kleinanzeigen-scraper?fpr=youssef",
+   "group": "dach"
+  },
+  {
+   "id": "variable_mitts/shopify-catalog-csv-cleaner",
+   "username": "variable_mitts",
+   "name": "shopify-catalog-csv-cleaner",
+   "title": "Shopify Product CSV Cleaner & Variant Checker",
+   "developer": "Dhan sites",
+   "description": "Clean a Shopify catalog CSV before import. Preserve variants and image rows, flag SKU conflicts, and download the cleaned file with a row-by-row review list",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/variable_mitts/shopify-catalog-csv-cleaner?fpr=youssef",
+   "group": "shopify-stores"
+  },
+  {
+   "id": "euroscrape/tori-fi-scraper",
+   "username": "euroscrape",
+   "name": "tori-fi-scraper",
+   "title": "Tori.fi Scraper: Finland Marketplace Data",
+   "developer": "EuroScrape",
+   "description": "Tori listings for any search: title, price in EUR, location, GPS, private or business seller, shipping, posting date, median price per search and price-drop alerts in monitor mode. Finland second-hand marketplace data API, CSV/Excel export. No login",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/euroscrape/tori-fi-scraper?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "automly/trendyol-scraper",
+   "username": "automly",
+   "name": "trendyol-scraper",
+   "title": "Trendyol Scraper",
+   "developer": "Automly",
+   "description": "Scrape Trendyol products by keyword, category, store or product link: price, discount, rating, seller, stock, sizes, attributes, description and customer reviews",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/automly/trendyol-scraper?fpr=youssef",
+   "group": "global-marketplaces"
+  },
+  {
+   "id": "dennydevelops/product-price-monitor",
+   "username": "dennydevelops",
+   "name": "product-price-monitor",
+   "title": "Product Price Monitor - Any Online Store, Price Changes",
+   "developer": "Musedenny",
+   "description": "Track product prices and stock on any online store from the structured data the page publishes for Google: price, currency, availability, brand, SKU/GTIN and rating, with price-change alerts since the last run",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/dennydevelops/product-price-monitor?fpr=youssef",
+   "group": "shopify-stores"
+  },
+  {
+   "id": "trakk/mobile-de-scraper",
+   "username": "trakk",
+   "name": "mobile-de-scraper",
+   "title": "Mobile.de Scraper - Vehicle Listings, Prices & Dealers",
+   "developer": "Kelopr_bk",
+   "description": "Collect mobile.de vehicle prices, specifications, equipment, photos, and dealer information from searches and listing links",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/trakk/mobile-de-scraper?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "nimbryxo-studio/yellowpages-com-business-listings-and-ratings",
+   "username": "nimbryxo-studio",
+   "name": "yellowpages-com-business-listings-and-ratings",
+   "title": "YellowPages.com Business Listings and Ratings Scraper",
+   "developer": "Nimbryxo-studio",
+   "description": "Search YellowPages.com businesses by keyword and location or ZIP, browse a category, or enrich known profile URLs, filtering by rating, review count and years in business",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/nimbryxo-studio/yellowpages-com-business-listings-and-ratings?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "themineworks/steam-scraper",
+   "username": "themineworks",
+   "name": "steam-scraper",
+   "title": "Steam Scraper: Games, Prices, Tags, Reviews and Top Sellers",
+   "developer": "The Mine Works",
+   "description": "Scrape Steam store games by keyword, tag, top sellers, most played, on sale or link: price, discount, release date, developer, publisher, tags, genres, review score and counts, platforms, Metacritic. Add review rows with text and playtime. No login",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/themineworks/steam-scraper?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "themineworks/tesco-scraper",
+   "username": "themineworks",
+   "name": "tesco-scraper",
+   "title": "Tesco Scraper: UK and Ireland Grocery Prices and Clubcard",
+   "developer": "The Mine Works",
+   "description": "Scrape Tesco UK and Tesco Ireland groceries by keyword, category or product link: price, unit price, Clubcard price, promotion dates, rating, reviews, availability, GTIN, aisle and image. Optional ingredients, nutrition and reviews. No login",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/themineworks/tesco-scraper?fpr=youssef",
+   "group": "us-retailers"
+  },
+  {
+   "id": "tenfoldfleet/alibaba-products-scraper",
+   "username": "tenfoldfleet",
+   "name": "alibaba-products-scraper",
+   "title": "Alibaba Scraper - Wholesale Suppliers, MOQ & Price Breaks",
+   "developer": "Tenfold Fleet",
+   "description": "Find wholesale suppliers on Alibaba.com by keyword: prices, every quantity price break, MOQ, lead time and the supplier behind each offer: years, Gold and verified status, Trade Assurance, response rate, rating. Filter by price, MOQ, country.; no-result searches free",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/tenfoldfleet/alibaba-products-scraper?fpr=youssef",
+   "group": "chinese-marketplaces"
+  },
+  {
+   "id": "woolly_neon_noz/hr-price-lists",
+   "username": "woolly_neon_noz",
+   "name": "hr-price-lists",
+   "title": "Croatia Retail Price Lists (NN 132/2026)",
+   "developer": "Terabit Ai",
+   "description": "Official daily price lists of Croatian retailers (Konzum, Lidl, Plodine, Studenac, Eurospin) as one table: barcode, price, sale price, unit price, 30-day lowest and anchor price per store. Changes-only mode",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/woolly_neon_noz/hr-price-lists?fpr=youssef",
+   "group": "dach"
+  },
+  {
+   "id": "gettingtechnicl/openfoodfacts-products",
+   "username": "gettingtechnicl",
+   "name": "openfoodfacts-products",
+   "title": "Open Food Facts Product Search - Data Scraper",
+   "developer": "Terry Gluff",
+   "description": "Extract exercise data from Open Food Facts Product Search via its official public JSON API. Search by categories tags and export 2186 structured fields per exercise as JSON, CSV or Excel - reliable, with no fragile HTML scraping",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/gettingtechnicl/openfoodfacts-products?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "cliqtomedia/ifood-scraper",
+   "username": "cliqtomedia",
+   "name": "ifood-scraper",
+   "title": "iFood Scraper: Restaurants, Menus & Delivery Fees by Address",
+   "developer": "Cliqto Media",
+   "description": "Scrape iFood Brazil restaurants near any address to compare competitors, plan delivery coverage and study menu prices: rating, reviews, delivery fee and time, price range, address, CNPJ, hours and full menus. No login",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/cliqtomedia/ifood-scraper?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "kareninatech/elcorteingles-scraper",
+   "username": "kareninatech",
+   "name": "elcorteingles-scraper",
+   "title": "El Corte Inglés Scraper: Spain Prices & EAN",
+   "developer": "Karen Gisela Gallegos Aguilar",
+   "description": "Scrape El Corte Inglés Spain products and prices without a browser. Search by words, categories, Black Friday or Navidad pages. Extract EAN, real discount vs 30-day low, fake-discount flag, gift-card promos, ratings, a gift report, and a price monitor. Export JSON, CSV or Excel",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/kareninatech/elcorteingles-scraper?fpr=youssef",
+   "group": "price-comparison"
+  },
+  {
+   "id": "davidcastro/huuto-scraper",
+   "username": "davidcastro",
+   "name": "huuto-scraper",
+   "title": "Huuto.net Scraper: Finland Auctions & Buy-Now Listings",
+   "developer": "David Castro",
+   "description": "Scrape Huuto.net, the Finnish auction marketplace: current price, buy-now price, bids and bidders, reserve price status, closing time, seller, location, postcode, category and photos. Filter by keyword, category, auction or buy-now, condition, price range and location",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/davidcastro/huuto-scraper?fpr=youssef",
+   "group": "other-ecommerce"
+  },
+  {
+   "id": "alom/aliexpress-scraper",
+   "username": "alom",
+   "name": "aliexpress-scraper",
+   "title": "AliExpress Scraper & API - Products, Prices & Reviews",
+   "developer": "Alom Dev",
+   "description": "AliExpress scraper and API: products by keyword with price, original price, discount, rating, sold count and images, sorted by orders or price, for any ship-to country and currency. Buyer reviews with photos and English translation. No login, no browser",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/alom/aliexpress-scraper?fpr=youssef",
+   "group": "chinese-marketplaces"
+  },
+  {
+   "id": "themineworks/gumroad-scraper",
+   "username": "themineworks",
+   "name": "gumroad-scraper",
+   "title": "Gumroad Scraper: Products, Prices, Ratings, Sales and Tags",
+   "developer": "The Mine Works",
+   "description": "Scrape Gumroad products by keyword, tag, category, creator store or link: name, creator, price, currency, rating, ratings count, sales count where shown, tags, full description, covers, dates and link. No login",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/themineworks/gumroad-scraper?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "datascraperes/ebay-active-listings-scraper",
+   "username": "datascraperes",
+   "name": "ebay-active-listings-scraper",
+   "title": "eBay Active Listings Scraper & Seller Monitor",
+   "developer": "DataScraperES",
+   "description": "Monitor eBay active listings across 11 marketplaces by keyword or seller without an eBay account or API key. Get price, shipping cost, total price, condition, seller, location, images, watchers and optional item specifics. Filter by condition, price, format and free shipping; export JSON/CSV",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/datascraperes/ebay-active-listings-scraper?fpr=youssef",
+   "group": "ebay-etsy"
+  },
+  {
+   "id": "rowkeeper/steam-store-games",
+   "username": "rowkeeper",
+   "name": "steam-store-games",
+   "title": "Steam Store Game Prices",
+   "developer": "Rowkeeper",
+   "description": "Games from the Steam store's public search lists (top sellers, new releases, on sale, or a search term) with price, discount, release date and overall review score, in the currency of the country you pick. Tested every day and kept working",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/rowkeeper/steam-store-games?fpr=youssef",
+   "group": "reviews"
+  },
+  {
+   "id": "fxjima/shopify-woocommerce-store-intelligence",
+   "username": "fxjima",
+   "name": "shopify-woocommerce-store-intelligence",
+   "title": "Shopify & WooCommerce Store Intelligence API",
+   "developer": "mihai marin",
+   "description": "Enrich store domains: Shopify/WooCommerce detection, theme, catalog size, price range, stock ratio, evidence-backed app & pixel stack and public business contacts",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/fxjima/shopify-woocommerce-store-intelligence?fpr=youssef",
+   "group": "shopify-stores"
+  },
+  {
+   "id": "tsun_tsun/woocommerce-store-intel",
+   "username": "tsun_tsun",
+   "name": "woocommerce-store-intel",
+   "title": "WooCommerce Store Scraper: Products, Prices, Emails & Plugins",
+   "developer": "tsun tsun",
+   "description": "Fast HTTP WooCommerce store intelligence extractor using official WordPress Store APIs. Pulls products, decimal prices, categories, stock status, contact emails, socials, and WordPress/WooCommerce plugin stack",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/tsun_tsun/woocommerce-store-intel?fpr=youssef",
+   "group": "shopify-stores"
+  },
+  {
+   "id": "askerka00/tiktok-ads-library-pro-scraper",
+   "username": "askerka00",
+   "name": "tiktok-ads-library-pro-scraper",
+   "title": "TikTok Ads Scraper Pro (Creative Center & HD MP4)",
+   "developer": "Asker Aubakirov",
+   "description": "Scrape TikTok Top Ads & Ad Library creatives by keyword, country, period and sorting without login. Extract brand name, ad title, CTR, likes, cost level, duration, cover image & 360p-720p MP4 video URLs",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/askerka00/tiktok-ads-library-pro-scraper?fpr=youssef",
+   "group": "ads-and-trends"
+  },
+  {
+   "id": "crawlyth-forge/autotempest-multi-site-used-car-search-scraper",
+   "username": "crawlyth-forge",
+   "name": "autotempest-multi-site-used-car-search-scraper",
+   "title": "AutoTempest Multi-Site Used Car Search Scraper",
+   "developer": "crawlyth forge",
+   "description": "Pull individual used-car listings aggregated by AutoTempest from Cars.com, Carvana, eBay Motors, TrueCar and dealer networks, filtered by make, model, year, price, ZIP radius and vehicle attributes",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/crawlyth-forge/autotempest-multi-site-used-car-search-scraper?fpr=youssef",
+   "group": "ebay-etsy"
+  },
+  {
+   "id": "jeggy/shopify-woocommerce-products",
+   "username": "jeggy",
+   "name": "shopify-woocommerce-products",
+   "title": "Shopify & WooCommerce Products Scraper - Prices & Stock",
+   "developer": "Jeggy",
+   "description": "Every product, price, variant and stock status from any Shopify or WooCommerce store via their public product feeds.. Price-drop and back-in-stock monitoring, sale filters, no proxies or logins. For e-commerce research, repricing and AI agents",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/jeggy/shopify-woocommerce-products?fpr=youssef",
+   "group": "shopify-stores"
+  },
+  {
+   "id": "first-penguin/mercari-japan-scraper",
+   "username": "first-penguin",
+   "name": "mercari-japan-scraper",
+   "title": "Mercari Japan Scraper · Sold Prices · Alerts",
+   "developer": "First Penguin",
+   "description": "Scrape Mercari Japan without login: yen price, sold status, condition, category, photos from keywords, search URLs or sellers. Sold prices show what items sell for. Item pages add full descriptions and seller ratings. Monitor mode alerts new listings and price drops to Slack, Discord or webhook",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/first-penguin/mercari-japan-scraper?fpr=youssef",
+   "group": "global-marketplaces"
   },
   {
    "id": "straightforward_hydra/kleinanzeigen-listings-scraper",
@@ -17712,20 +17992,6 @@
    "rating": null,
    "reviews": 0,
    "url": "https://apify.com/brick_joey_yto/kleinanzeigen-monitor?fpr=youssef",
-   "group": "dach"
-  },
-  {
-   "id": "rel8ble/kleinanzeigen-scraper",
-   "username": "rel8ble",
-   "name": "kleinanzeigen-scraper",
-   "title": "Kleinanzeigen Scraper & API - eBay Kleinanzeigen Ads & Prices",
-   "developer": "Giovanni Rich",
-   "description": "Kleinanzeigen scraper and API (formerly eBay Kleinanzeigen): search German classifieds by keyword, category, city/PLZ + radius, price, seller type. One result = one ad: title, price, place, date, shop, photos, URL. Details included, no start fee. details, 18 Nov 2026",
-   "totalUsers": 2,
-   "monthlyUsers": 1,
-   "rating": null,
-   "reviews": 0,
-   "url": "https://apify.com/rel8ble/kleinanzeigen-scraper?fpr=youssef",
    "group": "dach"
   },
   {
@@ -18709,6 +18975,20 @@
    "group": "dach"
   },
   {
+   "id": "nkkolev/german-grocery-prices",
+   "username": "nkkolev",
+   "name": "german-grocery-prices",
+   "title": "German Supermarket & Drugstore Prices (REWE, dm, Knuspr)",
+   "developer": "Nikolay Kolev",
+   "description": "Search products across REWE, dm and Knuspr in one run and get one clean price table: price, discount and end date, unit price, EAN, brand, category. REWE prices come from the store nearest your postcode",
+   "totalUsers": 2,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/nkkolev/german-grocery-prices?fpr=youssef",
+   "group": "dach"
+  },
+  {
    "id": "studio-amba/thomann-de-scraper",
    "username": "studio-amba",
    "name": "thomann-de-scraper",
@@ -19493,6 +19773,48 @@
    "group": "chinese-marketplaces"
   },
   {
+   "id": "h1018y/anvil-amazon-reviews-scraper",
+   "username": "h1018y",
+   "name": "anvil-amazon-reviews-scraper",
+   "title": "Amazon Reviews Scraper - Reviews From Every Country Site",
+   "developer": "Veriloc",
+   "description": "Scrapes Amazon reviews from 21 country sites without login: give it product links or ASINs; get each review's stars, title, text, ISO date, clean country, verified flag, helpful votes and variant as rows. Same field names as the leading Amazon Reviews Scraper, with onlyNew for monitoring",
+   "totalUsers": 1,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/h1018y/anvil-amazon-reviews-scraper?fpr=youssef",
+   "group": "amazon"
+  },
+  {
+   "id": "hoanle0126/shopify-store-product-scraper",
+   "username": "hoanle0126",
+   "name": "shopify-store-product-scraper",
+   "title": "Shopify Products, Inventory & Barcodes Scraper",
+   "developer": "Hoan Le",
+   "description": "Scrape any public Shopify store for products, exact variant inventory counts, barcodes/GTINs, SKUs, prices, compare-at discounts, images, options, selling plans, and store metadata. Supports full store domains, collection URLs, and product filters with zero API keys",
+   "totalUsers": 1,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/hoanle0126/shopify-store-product-scraper?fpr=youssef",
+   "group": "shopify-stores"
+  },
+  {
+   "id": "tenfoldfleet/aliexpress-search-scraper",
+   "username": "tenfoldfleet",
+   "name": "aliexpress-search-scraper",
+   "title": "AliExpress Keyword Scraper - Exact Sold Counts by Search Term",
+   "developer": "Tenfold Fleet",
+   "description": "Get AliExpress products for any keyword or search URL: product ID, title, sale price, list price, discount, sold count, rating, shipping and item URL. Up to 3,600 per search, sort and price filters, exact sold counts.; failed searches are free",
+   "totalUsers": 1,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/tenfoldfleet/aliexpress-search-scraper?fpr=youssef",
+   "group": "chinese-marketplaces"
+  },
+  {
    "id": "perskekits/shopify-reviews-scraper",
    "username": "perskekits",
    "name": "shopify-reviews-scraper",
@@ -19533,6 +19855,20 @@
    "reviews": 0,
    "url": "https://apify.com/jade_browser/car-hire-price-comparison?fpr=youssef",
    "group": "price-comparison"
+  },
+  {
+   "id": "automation-lab/etsy-shop-reviews-scraper",
+   "username": "automation-lab",
+   "name": "etsy-shop-reviews-scraper",
+   "title": "Etsy Shop & Listing Reviews Scraper",
+   "developer": "Automation Lab",
+   "description": "Scrape Etsy reviews from shops and listings: rating, text, date, reviewer, item, photos and seller replies. No API key needed",
+   "totalUsers": 1,
+   "monthlyUsers": 1,
+   "rating": null,
+   "reviews": 0,
+   "url": "https://apify.com/automation-lab/etsy-shop-reviews-scraper?fpr=youssef",
+   "group": "ebay-etsy"
   },
   {
    "id": "solidcode/otto-de-scraper",
